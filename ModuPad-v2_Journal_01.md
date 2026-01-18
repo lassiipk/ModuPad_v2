@@ -1,6 +1,8 @@
 # ModuPad v2
 <img width="3593" height="2464" alt="ModuPad_v2_Sketch-PNG-Dark-Mode_3xScale_ excalidraw" src="https://github.com/user-attachments/assets/7e46cdf8-0388-4e83-94f7-2fd80c8edda1" />
+
 ---
+
 >  Presenting [ModuPad v2](https://github.com/lassiipk/ModuPad_v2) improved version of [ModuPad v1](https://github.com/lassiipk/ModuPad) with 5x5 (25 keys) Macro-Focused, 3 Encoders with push buttons, nice!nano display for visuals and animations, and an nice!nano MCU for pin constraints and simplify design
 
 ---
