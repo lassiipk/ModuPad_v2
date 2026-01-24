@@ -34,4 +34,4 @@ It took me over 2 days straight — I started right after finishing the schemati
 ## 📸 Images
 | Front | Front-Side |Back-Side| Back |
 |-------|-------|-------|-------|
-| ![Uploading ModuPad_v2_Front.png…]() | ![Uploading ModuPad_v2_Back-Side.png…]() | ![Uploading ModuPad_v2_Front-Side.png…]() | <img width="1724" height="930" alt="ModuPad_v2_Back" src="https://github.com/user-attachments/assets/6f3e5a19-605f-421f-a97d-0c34fb34f53b" /> |
+| <img width="1724" height="930" alt="ModuPad_v2_Front" src="https://github.com/user-attachments/assets/d1b20612-6670-4c93-aa06-64e31960b061" /> | <img width="1724" height="930" alt="ModuPad_v2_Front-Side" src="https://github.com/user-attachments/assets/29a5e9e0-a927-43a1-a7b3-faa234a0cb0e" /> | <img width="1724" height="930" alt="ModuPad_v2_Back-Side" src="https://github.com/user-attachments/assets/e5ccf7ea-7c32-4543-9455-4ae480702e27" /> | <img width="1724" height="930" alt="ModuPad_v2_Back" src="https://github.com/user-attachments/assets/6f3e5a19-605f-421f-a97d-0c34fb34f53b" /> |
