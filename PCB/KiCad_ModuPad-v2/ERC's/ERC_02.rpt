@@ -1,0 +1,18 @@
+ERC report (2026-01-21T16:35:52+0500, Encoding UTF8)
+
+***** Sheet /
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(5050 mils, 8050 mils): Symbol Display1 Pin 1 [MOSI, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(5050 mils, 8150 mils): Symbol Display1 Pin 2 [SCK, Input, Clock]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(5050 mils, 8250 mils): Symbol Display1 Pin 3 [VCC, Power input, Line]
+[multiple_net_names]: Both COL 5 and EC_SW02_A are attached to the same items; COL 5 will be used in the netlist
+    ; warning
+    @(12700 mils, 1100 mils): Global Label 'COL 5'
+    @(12600 mils, 2400 mils): Global Label 'EC_SW02_A'
+
+ ** ERC messages: 4  Errors 3  Warnings 1

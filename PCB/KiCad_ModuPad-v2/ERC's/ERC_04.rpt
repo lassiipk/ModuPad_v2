@@ -1,0 +1,11 @@
+ERC report (2026-01-21T17:02:48+0500, Encoding UTF8)
+
+***** Sheet /
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(5050 mils, 8050 mils): Symbol Display1 Pin 1 [MOSI, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(5050 mils, 8150 mils): Symbol Display1 Pin 2 [SCK, Input, Clock]
+
+ ** ERC messages: 2  Errors 2  Warnings 0

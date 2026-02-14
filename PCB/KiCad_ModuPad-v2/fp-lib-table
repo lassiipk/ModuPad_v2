@@ -1,0 +1,13 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Branding")(type "KiCad")(uri "E:/$@!M/ModuPad_v2/KiCad_ModuPad-v2/KiCad_FootPrints/Branding")(options "")(descr ""))
+  (lib (name "Battery-Jack")(type "KiCad")(uri "E:/$@!M/ModuPad_v2/KiCad_ModuPad-v2/KiCad_FootPrints/Battery-Jack")(options "")(descr ""))
+  (lib (name "Encoders_Push-Buttons")(type "KiCad")(uri "E:/$@!M/ModuPad_v2/KiCad_ModuPad-v2/KiCad_FootPrints/Encoders_Push-Buttons")(options "")(descr ""))
+  (lib (name "MX-Style-Cherry-Switches-with-Kilah-HotSwap-Socket")(type "KiCad")(uri "E:/$@!M/ModuPad_v2/KiCad_ModuPad-v2/KiCad_FootPrints/MX-Style-Cherry-Switches-with-Kilah-HotSwap-Socket")(options "")(descr ""))
+  (lib (name "nice!nano")(type "KiCad")(uri "E:/$@!M/ModuPad_v2/KiCad_ModuPad-v2/KiCad_FootPrints/nice!nano")(options "")(descr ""))
+  (lib (name "nice!view")(type "KiCad")(uri "E:/$@!M/ModuPad_v2/KiCad_ModuPad-v2/KiCad_FootPrints/nice!view")(options "")(descr ""))
+  (lib (name "Power-Switch-Battery")(type "KiCad")(uri "E:/$@!M/ModuPad_v2/KiCad_ModuPad-v2/KiCad_FootPrints/Power-Switch-Battery")(options "")(descr ""))
+  (lib (name "Reset-Button")(type "KiCad")(uri "E:/$@!M/ModuPad_v2/KiCad_ModuPad-v2/KiCad_FootPrints/Reset-Button")(options "")(descr ""))
+  (lib (name "SAIM's_Signature-Silkscreen")(type "KiCad")(uri "E:/$@!M/ModuPad_v2/KiCad_ModuPad-v2/KiCad_FootPrints/SAIM's_Signature-Silkscreen")(options "")(descr ""))
+  (lib (name "SK6812MINI-E")(type "KiCad")(uri "E:/$@!M/ModuPad_v2/KiCad_ModuPad-v2/KiCad_FootPrints/SK6812MINI-E")(options "")(descr ""))
+)
