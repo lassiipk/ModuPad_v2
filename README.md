@@ -34,6 +34,10 @@ Improved Version of my ModuPad v1, With 3 Push Button rotattry encoders, 25 Key 
 
 **1 USD = 279.55 PKR**
 
+> [Cart_Images](https://github.com/lassiipk/ModuPad_v2/tree/main/BOM/Cart_Images)
+>
+> [BOM_Markdowns](https://github.com/lassiipk/ModuPad_v2/tree/main/BOM/BOM_Markdown)
+
 ---
 
 | Priority | Item                      | Qty | Unit Price (USD) | Ordering Site    | Shipping (USD) | Total (USD, incl. shipping) | Notes                | Ordering Site    |
@@ -66,11 +70,13 @@ Improved Version of my ModuPad v1, With 3 Push Button rotattry encoders, 25 Key 
 
 ## Timeline
 
-**Project Started** 5th Jan 2026
+**Project Started:** 05-Jan 2026 | 3:40PM
 
-**Project Ended** 17th Feb 2026
+**Project Ended:** 14-Feb-2026 | 5:00 PM
 
-**Project Submited** 17 Feb 2026
+**Project Submited:** 17-Feb 2026 | 9:00 PM
+
+**Project README Entry Written:** 17-Feb 2026 | 9:00 PM
 
 ---
 
