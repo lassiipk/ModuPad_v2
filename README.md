@@ -36,35 +36,32 @@ Improved Version of my ModuPad v1, With 3 Push Button rotattry encoders, 25 Key 
 
 > [Cart_Images](https://github.com/lassiipk/ModuPad_v2/tree/main/BOM/Cart_Images)
 >
-> [BOM_Markdowns](https://github.com/lassiipk/ModuPad_v2/tree/main/BOM/BOM_Markdown)
+> [BOM](https://github.com/lassiipk/ModuPad_v2/tree/main/BOM/)
 
 ---
 
-| Priority | Item                      | Qty | Unit Price (USD) | Ordering Site    | Shipping (USD) | Total (USD, incl. shipping) | Notes                | Ordering Site    |
-| -------- | ------------------------- | --- | ---------------- | ---------------- | -------------- | --------------------------- | -------------------- | ---------------- |
-| 1        | nice!nano v2.0            | 1   | 25.39            | Typeractive      | Free           | 25.39                       | Main MCU             | [Typeractive](https://typeractive.xyz/collections/all)      |
-| 2        | nice!view Display         | 1   | 20.39            | Typeractive      | Free           | 20.39                       | Includes header pins | [Typeractive](https://typeractive.xyz/collections/all)      |
-| 3        | PCB (5 pcs pack)          | 1   | 9.20             | JLCPCB           | 16.77          | 25.97                       | E-Post shipping      | [JLCPCB](https://jlcpcb.com)           |
-| 4        | Machine Sockets and Pins  | 1   | 6.80             | Typeractive      | Free           | 6.80                        | MCU socketing        | [Typeractive](https://typeractive.xyz/collections/all)      |
-| 5        | SMD Diodes                | 3   | 1.07             | Typeractive      | Free           | 3.22                        | 30 diodes            | [Typeractive](https://typeractive.xyz/collections/all)      |
-| 6        | Kailh Hotswap Sockets     | 3   | 1.79             | Typeractive      | Free           | 5.37                        | 30 sockets           | [Typeractive](https://typeractive.xyz/collections/all)      |
-| 7        | CHERRY MX Blue Switch Kit | 3   | 7.15             | Daraz            | 0.66           | 22.13                       | 30 switches          | [Daraz](https://www.daraz.pk//products/i936558752-s3994103049.html?spm=a2o42.cart.0.0.3f587d68uzqCvQ&urlFlag=true)            |
-| 8        | DSA Keycaps               | 3   | 3.58             | Typeractive      | Free           | 10.73                       | 30 keycaps           | [Typeractive](https://typeractive.xyz/collections/all)      |
-| 9        | EC11 Rotary Encoder       | 1   | 2.55             | AliExpress       | 1.99           | 4.54                        | Encoder              | [AliExpress](https://www.aliexpress.com/item/1005007644083514.html?spm=a2g0o.cart.0.0.296b38daq42o7j&mp=1&pdp_npi=6%40dis%21USD%21USD%202.65%21USD%202.55%21%21USD%202.55%21%21%21%40212e509017713080129636230e5294%2112000041630839426%21ct%21PK%216395474379%21%211%210%21) |
-| 10       | SK6812 MINI-E RGB LEDs    | 1   | 3.82             | AliExpress       | 1.99           | 5.81                        | Wired only           | [AliExpress](https://www.aliexpress.com/item/1005005193716172.html?spm=a2g0o.cart.0.0.296b38daq42o7j&mp=1&pdp_npi=6%40dis%21USD%21USD%203.83%21USD%203.83%21%21USD%203.83%21%21%21%40212e509017713080129636230e5294%2112000032072424634%21ct%21PK%216395474379%21%211%210%21) |
-| 11       | 3.7V 800mAh Battery       | 1   | 1.79             | Daraz            | 0.91           | 2.70                        | Protected            | [Daraz](https://www.daraz.pk//products/i422858128-s2001359619.html?spm=a2o42.cart.0.0.fe767d68dD1l04&urlFlag=true)            |
-| 12       | Power Switch              | 1   | 1.79             | Typeractive      | Free           | 1.79                        | Battery cutoff       | [Typeractive](https://typeractive.xyz/collections/all)      |
-| 13       | Battery Jack              | 1   | 1.07             | Typeractive      | Free           | 1.07                        | Battery connection   | [Typeractive](https://typeractive.xyz/collections/all)      |
-| 14       | Reset Button              | 1   | 1.79             | Typeractive      | Free           | 1.79                        | Reset                | [Typeractive](https://typeractive.xyz/collections/all)      |
-| 15       | 5-Pin Sockets             | 1   | 1.07             | Typeractive      | Free           | 1.07                        | Peripheral support   | [Typeractive](https://typeractive.xyz/collections/all)      |
-| 16       | Display Cover             | 1   | 5.37             | Typeractive      | Free           | 5.37                        | Includes screws      | [Typeractive](https://typeractive.xyz/collections/all)      |
-| 17       | M2 Heat-Set Inserts       | 1   | 1.25             | Daraz            | 0.91           | 2.16                        | Mounting             | [Daraz](https://www.daraz.pk//products/i895650029-s3931671492.html?spm=a2o42.cart.0.0.fe767d68cf5dlL&urlFlag=true)            |
-| 18       | 3D Printed Case           | 1   | 15.00            | #printing-legion | Included       | 15.00                       | Structure            | [#printing-legion](https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
-| 19       | USB-C Cable               | 1   | 4.29             | Typeractive      | Free           | 4.29                        | Data + charging      | [Typeractive](https://typeractive.xyz/collections/all)      |
+| Priority | Item                      | Qty | Unit Price (PKR / USD) | Shipping (PKR / USD) | Total (PKR / USD) | Notes               | Ordering Site    |
+| -------- | ------------------------- | --- | ---------------------- | -------------------- | ----------------- | ------------------  | ---------------- |
+| 1        | PCB (5 pcs pack)          | 1   | 2,571.86 / 9.20        | 4,688.05 / 16.77     | 7,259.91 / 25.97  | E-Post shipping     | [JCLPCB](https://jlcpcb.com) | 
+| 2        | 3D Printed Case           | 1   | --- / ---              | --- / 15.00          | --- / 15.00       | Case / Knobs        | [#printing-legion](https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
+| 3        | 3.7V 800mAh Battery       | 1   | 500 / 1.79             | 255 / 0.91           | 754 / 2.70        | Wireless Connection | [Daraz](https://www.daraz.pk//products/i422858128-s2001359619.html?spm=a2o42.cart.0.0.af8f7d68YCkevZ&urlFlag=true) |
+| 4        | M2 Heat-Set Inserts       | 1   | --- / ---              |--- / ---             | --- / ---         | Mounting            | --- |
+| 5        | EC11 Rotary Encoder       | 1   | --- / 2.65             | --- / 1.99           | --- / 4.54        | Encoder             | [AliExpress](https://www.aliexpress.com/item/1005007644083514.html?spm=a2g0o.cart.0.0.744038da23sMVn&mp=1&pdp_npi=6%40dis%21USD%21USD%202.65%21USD%202.65%21%21USD%202.65%21%21%21%4021010d9017721245116916843e42d2%2112000041630839426%21ct%21PK%216395474379%21%211%210%21) |
+| 6        | SK6812 MINI-E RGB LEDs    | 1   | --- / 3.86             | --- / 1.99           | --- / 5.85        | RGB                 | [AliExpress](https://www.aliexpress.com/item/1005005193716172.html?spm=a2g0o.cart.0.0.744038da23sMVn&mp=1&pdp_npi=6%40dis%21USD%21USD%203.86%21USD%203.86%21%21USD%203.86%21%21%21%4021010d9017721244036344079e42d2%2112000032072424634%21ct%21PK%216395474379%21%211%210%21) |
+| 7        | CHERRY MX Blue Switch Kit | 3   | 2,000 / 7.15           | 185 / 0.66           | 6,185 / 22.13     | 30 switches         | [Daraz](https://www.daraz.pk//products/i936558752-s3994103049.html?spm=a2o42.cart.0.0.7f167d68l1SOW6&urlFlag=true) |
+| 8        | nice!nano v2.0            | 1   | 7,100 / 25.39          | Free                 | 7,100 / 25.39     | Main MCU            | [Typeractive](https://typeractive.xyz/products/nice-nano) |
+| 9        | nice!view Display         | 1   | 5,700 / 20.39          | Free                 | 5,700 / 20.39     | Display             | [Typeractive](https://typeractive.xyz/products/nice-view) |
+| 10       | Machine Sockets and Pins  | 1   | 1,900 / 6.80           | Free                 | 1,900 / 6.80      | Socketing           | [Typeractive](https://typeractive.xyz/products/machine-sockets-and-pins) |
+| 11       | SMD Diodes                | 3   | 300 / 1.07             | Free                 | 900 / 3.22        | 30 diodes           | [Typeractive](https://typeractive.xyz/products/smd-diodes) |
+| 12       | Kailh Hotswap Sockets     | 3   | 500 / 1.79             | Free                 | 1,500 / 5.37      | Corrected total     | [Typeractive](https://typeractive.xyz/products/hotswap-sockets) |
+| 13       | DSA Keycaps               | 3   | 1,000 / 3.58           | Free                 | 3,000 / 10.73     | 30 keycaps          | [Typeractive](https://typeractive.xyz/products/dsa-keycaps) |
+| 14       | Power Switch              | 1   | 500 / 1.79             | Free                 | 500 / 1.79        | Power cutoff        | [Typeractive](https://typeractive.xyz/products/power-switch) |
+| 15       | Battery Jack              | 1   | 300 / 1.07             | Free                 | 300 / 1.07        | Battery connection  | [Typeractive](https://typeractive.xyz/products/battery-jack) |
+| 16       | Reset Button              | 1   | 500 / 1.79             | Free                 | 500 / 1.79        | Reset               | [Typeractive](https://typeractive.xyz/products/reset-button) |
 
-### GRAND TOTAL (USD)
+---
 
-**169.13 USD**
+**Total = 152.74 USD**
 
 ---
 
@@ -74,9 +71,11 @@ Improved Version of my ModuPad v1, With 3 Push Button rotattry encoders, 25 Key 
 
 **Project Ended:** 14-Feb-2026 | 5:00 PM
 
-**Project Submited:** 17-Feb 2026 | 9:00 PM
-
 **Project README Entry Written:** 17-Feb 2026 | 9:00 PM
+
+**Project Intital Submit:** Feb 17th at 9:21 PM
+
+**Project Second submission:** Feb 27th at N/a AM (**@alexren** requested changes, Feb 19th at 2:48 AM) BOM is optimised as much I was able to!
 
 ---
 
