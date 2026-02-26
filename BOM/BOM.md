@@ -1,0 +1,32 @@
+# Final Bill of Materials (BOM) — Combined Currency (PKR + USD)
+
+---
+
+**1 USD = 279.55 PKR**
+
+---
+
+| Priority | Item                      | Qty | Unit Price (PKR / USD) | Shipping (PKR / USD) | Total (PKR / USD) | Notes               | Ordering Site    |
+| -------- | ------------------------- | --- | ---------------------- | -------------------- | ----------------- | ------------------  | ---------------- |
+| 1        | PCB (5 pcs pack)          | 1   | 2,571.86 / 9.20        | 4,688.05 / 16.77     | 7,259.91 / 25.97  | E-Post shipping     | [JCLPCB](https://jlcpcb.com) | 
+| 2        | 3D Printed Case           | 1   | --- / ---              | --- / 15.00          | --- / 15.00       | Case / Knobs        | [#printing-legion](https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
+| 3        | 3.7V 800mAh Battery       | 1   | 500 / 1.79             | 255 / 0.91           | 754 / 2.70        | Wireless Connection | [Daraz](https://www.daraz.pk//products/i422858128-s2001359619.html?spm=a2o42.cart.0.0.af8f7d68YCkevZ&urlFlag=true) |
+| 4        | M2 Heat-Set Inserts       | 1   | --- / ---              |--- / ---             | --- / ---         | Mounting            | --- |
+| 5        | EC11 Rotary Encoder       | 1   | --- / 2.65             | --- / 1.99           | --- / 4.54        | Encoder             | [AliExpress](https://www.aliexpress.com/item/1005007644083514.html?spm=a2g0o.cart.0.0.744038da23sMVn&mp=1&pdp_npi=6%40dis%21USD%21USD%202.65%21USD%202.65%21%21USD%202.65%21%21%21%4021010d9017721245116916843e42d2%2112000041630839426%21ct%21PK%216395474379%21%211%210%21) |
+| 6        | SK6812 MINI-E RGB LEDs    | 1   | --- / 3.86             | --- / 1.99           | --- / 5.85        | RGB                 | [AliExpress](https://www.aliexpress.com/item/1005005193716172.html?spm=a2g0o.cart.0.0.744038da23sMVn&mp=1&pdp_npi=6%40dis%21USD%21USD%203.86%21USD%203.86%21%21USD%203.86%21%21%21%4021010d9017721244036344079e42d2%2112000032072424634%21ct%21PK%216395474379%21%211%210%21) |
+| 7        | CHERRY MX Blue Switch Kit | 3   | 2,000 / 7.15           | 185 / 0.66           | 6,185 / 22.13     | 30 switches         | [Daraz](https://www.daraz.pk//products/i936558752-s3994103049.html?spm=a2o42.cart.0.0.7f167d68l1SOW6&urlFlag=true) |
+| 8        | nice!nano v2.0            | 1   | 7,100 / 25.39          | Free                 | 7,100 / 25.39     | Main MCU            | [Typeractive](https://typeractive.xyz/products/nice-nano) |
+| 9        | nice!view Display         | 1   | 5,700 / 20.39          | Free                 | 5,700 / 20.39     | Display             | [Typeractive](https://typeractive.xyz/products/nice-view) |
+| 10       | Machine Sockets and Pins  | 1   | 1,900 / 6.80           | Free                 | 1,900 / 6.80      | Socketing           | [Typeractive](https://typeractive.xyz/products/machine-sockets-and-pins) |
+| 11       | SMD Diodes                | 3   | 300 / 1.07             | Free                 | 900 / 3.22        | 30 diodes           | [Typeractive](https://typeractive.xyz/products/smd-diodes) |
+| 12       | Kailh Hotswap Sockets     | 3   | 500 / 1.79             | Free                 | 1,500 / 5.37      | Corrected total     | [Typeractive](https://typeractive.xyz/products/hotswap-sockets) |
+| 13       | DSA Keycaps               | 3   | 1,000 / 3.58           | Free                 | 3,000 / 10.73     | 30 keycaps          | [Typeractive](https://typeractive.xyz/products/dsa-keycaps) |
+| 14       | Power Switch              | 1   | 500 / 1.79             | Free                 | 500 / 1.79        | Power cutoff        | [Typeractive](https://typeractive.xyz/products/power-switch) |
+| 15       | Battery Jack              | 1   | 300 / 1.07             | Free                 | 300 / 1.07        | Battery connection  | [Typeractive](https://typeractive.xyz/products/battery-jack) |
+| 16       | Reset Button              | 1   | 500 / 1.79             | Free                 | 500 / 1.79        | Reset               | [Typeractive](https://typeractive.xyz/products/reset-button) |
+
+---
+
+**Total = 152.74 USD**
+
+---
