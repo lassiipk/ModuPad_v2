@@ -1,6 +1,6 @@
 # ModuPad_v2
 
-Improved Version of my ModuPad v1, With 3 Push Button rotattry encoders, 25 Key switches, nice!nano MCU, and nice!view display.
+Improved Version of my ModuPad v1, With 3 Push Button rotary encoders, 25 Key switches, nice!nano MCU, and nice!view display.
 
 ---
 
