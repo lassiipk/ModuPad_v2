@@ -16,7 +16,9 @@ Improved Version of my ModuPad v1, With 3 Push Button rotary encoders, 25 Key sw
 
 ## PCB
 
-<img width="942" height="1080" alt="Screenshot 2026-01-27 120922" src="https://github.com/user-attachments/assets/e4b035c4-5acd-4f57-917d-54532f2d84d8" />
+<!-- <img width="942" height="1080" alt="Screenshot 2026-01-27 120922" src="https://github.com/user-attachments/assets/e4b035c4-5acd-4f57-917d-54532f2d84d8" /> -->
+<img width="1920" height="1080" alt="Screenshot 2026-03-10 152446" src="https://github.com/user-attachments/assets/95cf891f-8aa4-4c9d-9080-335b2154a0fc" />
+
 
 ---
 
@@ -30,15 +32,13 @@ Improved Version of my ModuPad v1, With 3 Push Button rotary encoders, 25 Key sw
 
 ## BOM
 
----
-
 **1 USD = 279.55 PKR**
 
 > [Cart_Images](https://github.com/lassiipk/ModuPad_v2/tree/main/BOM/Cart_Images)
 >
-> [BOM](https://github.com/lassiipk/ModuPad_v2/tree/main/BOM/)
-
----
+> [BOM.csv](https://github.com/lassiipk/ModuPad_v2/blob/main/BOM/BOM.csv)
+>
+> [BOM Folder](https://github.com/lassiipk/ModuPad_v2/tree/main/BOM/)
 
 | Priority | Item                      | Qty | Unit Price (PKR / USD) | Shipping (PKR / USD) | Total (PKR / USD) | Notes               | Ordering Site    |
 | -------- | ------------------------- | --- | ---------------------- | -------------------- | ----------------- | ------------------  | ---------------- |
