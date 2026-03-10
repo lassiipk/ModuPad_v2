@@ -1,0 +1,996 @@
+** Drc report for ModuPad_v2.kicad_pcb **
+** Created on 2026-01-23T10:17:39+0500 **
+
+** Found 277 DRC violations **
+[text_on_edge_cuts]: Text (or dimension) on Edge.Cuts layer
+    Local override; error
+    @(80.7500 mm, 54.7500 mm): PCB text 'SAIM' on Edge.Cuts
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.5000 mm, 172.7500 mm): Footprint LED_10
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.5000 mm, 172.7500 mm): Footprint LED_10
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(91.5000 mm, 172.7500 mm): Footprint LED_10
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(91.5000 mm, 172.7500 mm): Footprint LED_10
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 134.7500 mm): Footprint LED_23
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 134.7500 mm): Footprint LED_23
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.5000 mm, 134.7500 mm): Footprint LED_8
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.5000 mm, 134.7500 mm): Footprint LED_8
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 115.7500 mm): Footprint LED_2
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 115.7500 mm): Footprint LED_2
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(110.5000 mm, 115.7500 mm): Footprint LED_2
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 153.7500 mm): Footprint LED_19
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 153.7500 mm): Footprint LED_19
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.5000 mm, 96.7500 mm): Footprint LED_6
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.5000 mm, 96.7500 mm): Footprint LED_6
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(91.5000 mm, 96.7500 mm): Footprint LED_6
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(91.5000 mm, 96.7500 mm): Footprint LED_6
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 153.7500 mm): Footprint LED_4
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 153.7500 mm): Footprint LED_4
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(110.5000 mm, 153.7500 mm): Footprint LED_4
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(110.5000 mm, 153.7500 mm): Footprint LED_4
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 115.7500 mm): Footprint LED_22
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 115.7500 mm): Footprint LED_22
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 96.7500 mm): Footprint LED_21
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 96.7500 mm): Footprint LED_21
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(34.5000 mm, 96.7500 mm): Footprint LED_21
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 172.7500 mm): Footprint LED_20
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 172.7500 mm): Footprint LED_20
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 96.7500 mm): Footprint LED_1
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 96.7500 mm): Footprint LED_1
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(110.5000 mm, 96.7500 mm): Footprint LED_1
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 115.7500 mm): Footprint LED_17
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 115.7500 mm): Footprint LED_17
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(53.5000 mm, 115.7500 mm): Footprint LED_17
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 96.7500 mm): Footprint LED_11
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 96.7500 mm): Footprint LED_11
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(72.5000 mm, 96.7500 mm): Footprint LED_11
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 134.7500 mm): Footprint LED_13
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 134.7500 mm): Footprint LED_13
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(72.5000 mm, 134.7500 mm): Footprint LED_13
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 172.7500 mm): Footprint LED_15
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 172.7500 mm): Footprint LED_15
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(72.5000 mm, 172.7500 mm): Footprint LED_15
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 134.7500 mm): Footprint LED_3
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 134.7500 mm): Footprint LED_3
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(110.5000 mm, 134.7500 mm): Footprint LED_3
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 153.7500 mm): Footprint LED_14
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 153.7500 mm): Footprint LED_14
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 134.7500 mm): Footprint LED_18
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 134.7500 mm): Footprint LED_18
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(53.5000 mm, 134.7500 mm): Footprint LED_18
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 172.7500 mm): Footprint LED_25
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 172.7500 mm): Footprint LED_25
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.5000 mm, 153.7500 mm): Footprint LED_9
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.5000 mm, 153.7500 mm): Footprint LED_9
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(91.5000 mm, 153.7500 mm): Footprint LED_9
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(91.5000 mm, 153.7500 mm): Footprint LED_9
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 172.7500 mm): Footprint LED_5
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 172.7500 mm): Footprint LED_5
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(110.5000 mm, 172.7500 mm): Footprint LED_5
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 96.7500 mm): Footprint LED_16
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 96.7500 mm): Footprint LED_16
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(53.5000 mm, 96.7500 mm): Footprint LED_16
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 115.7500 mm): Footprint LED_12
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 115.7500 mm): Footprint LED_12
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(72.5000 mm, 115.7500 mm): Footprint LED_12
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.7500 mm, 115.7500 mm): Footprint LED_7
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.7500 mm, 115.7500 mm): Footprint LED_7
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(91.7500 mm, 115.7500 mm): Footprint LED_7
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 153.7500 mm): Footprint LED_24
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 153.7500 mm): Footprint LED_24
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(34.5000 mm, 153.7500 mm): Footprint LED_24
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(34.5000 mm, 153.7500 mm): Footprint LED_24
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0000 mm)
+    Rule: board setup constraints edge; error
+    @(20.0000 mm, 30.0000 mm): Rectangle on Edge.Cuts
+    @(20.4000 mm, 55.7000 mm): Pad [<no net>] of SW26_SPDT1 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0000 mm)
+    Rule: board setup constraints edge; error
+    @(20.0000 mm, 30.0000 mm): Rectangle on Edge.Cuts
+    @(20.4000 mm, 48.3000 mm): Pad [<no net>] of SW26_SPDT1 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(89.8000 mm, 173.4528 mm): Segment of LED_10 on Edge.Cuts
+    @(88.7750 mm, 172.0000 mm): Pad 1 [Net-(LED_10-DOUT)] of LED_10 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(89.8000 mm, 173.4528 mm): Segment of LED_10 on Edge.Cuts
+    @(88.7750 mm, 173.5000 mm): Pad 2 [GND] of LED_10 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(93.2000 mm, 172.0472 mm): Segment of LED_10 on Edge.Cuts
+    @(94.2250 mm, 172.0000 mm): Pad 3 [Net-(LED_10-DIN)] of LED_10 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(93.2000 mm, 172.0472 mm): Segment of LED_10 on Edge.Cuts
+    @(94.2250 mm, 173.5000 mm): Pad 4 [VCC] of LED_10 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(32.8000 mm, 135.4528 mm): Segment of LED_23 on Edge.Cuts
+    @(31.7750 mm, 134.0000 mm): Pad 1 [unconnected-(LED_23-DOUT-Pad1)] of LED_23 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(32.8000 mm, 135.4528 mm): Segment of LED_23 on Edge.Cuts
+    @(31.7750 mm, 135.5000 mm): Pad 2 [GND] of LED_23 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(36.7000 mm, 134.0472 mm): Arc of LED_23 on Edge.Cuts
+    @(37.2250 mm, 134.0000 mm): Pad 3 [Net-(LED_18-DOUT)] of LED_23 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3397 mm)
+    Rule: board setup constraints edge; error
+    @(36.7000 mm, 135.4528 mm): Arc of LED_23 on Edge.Cuts
+    @(37.2250 mm, 135.5000 mm): Pad 4 [VCC] of LED_23 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(89.8000 mm, 135.4528 mm): Segment of LED_8 on Edge.Cuts
+    @(88.7750 mm, 134.0000 mm): Pad 1 [Net-(LED_13-DIN)] of LED_8 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(89.8000 mm, 135.4528 mm): Segment of LED_8 on Edge.Cuts
+    @(88.7750 mm, 135.5000 mm): Pad 2 [GND] of LED_8 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(93.2000 mm, 134.0472 mm): Segment of LED_8 on Edge.Cuts
+    @(94.2250 mm, 134.0000 mm): Pad 3 [Net-(LED_3-DOUT)] of LED_8 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(93.2000 mm, 134.0472 mm): Segment of LED_8 on Edge.Cuts
+    @(94.2250 mm, 135.5000 mm): Pad 4 [VCC] of LED_8 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(108.8000 mm, 116.4528 mm): Segment of LED_2 on Edge.Cuts
+    @(107.7750 mm, 115.0000 mm): Pad 1 [Net-(LED_2-DOUT)] of LED_2 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(108.8000 mm, 116.4528 mm): Segment of LED_2 on Edge.Cuts
+    @(107.7750 mm, 116.5000 mm): Pad 2 [GND] of LED_2 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(112.2000 mm, 115.0472 mm): Segment of LED_2 on Edge.Cuts
+    @(113.2250 mm, 115.0000 mm): Pad 3 [Net-(LED_1-DIN)] of LED_2 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(112.2000 mm, 115.0472 mm): Segment of LED_2 on Edge.Cuts
+    @(113.2250 mm, 116.5000 mm): Pad 4 [VCC] of LED_2 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(51.8000 mm, 154.4528 mm): Segment of LED_19 on Edge.Cuts
+    @(50.7750 mm, 153.0000 mm): Pad 1 [Net-(LED_19-DOUT)] of LED_19 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(51.8000 mm, 154.4528 mm): Segment of LED_19 on Edge.Cuts
+    @(50.7750 mm, 154.5000 mm): Pad 2 [GND] of LED_19 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(55.2000 mm, 153.0472 mm): Segment of LED_19 on Edge.Cuts
+    @(56.2250 mm, 153.0000 mm): Pad 3 [Net-(LED_14-DOUT)] of LED_19 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(55.2000 mm, 153.0472 mm): Segment of LED_19 on Edge.Cuts
+    @(56.2250 mm, 154.5000 mm): Pad 4 [VCC] of LED_19 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2531 mm)
+    Rule: board setup constraints edge; error
+    @(90.2010 mm, 95.6134 mm): Arc of LED_6 on Edge.Cuts
+    @(88.7750 mm, 96.0000 mm): Pad 1 [Net-(LED_11-DIN)] of LED_6 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(89.2996 mm, 97.4528 mm): Arc of LED_6 on Edge.Cuts
+    @(88.7750 mm, 97.5000 mm): Pad 2 [GND] of LED_6 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(92.7990 mm, 95.6134 mm): Arc of LED_6 on Edge.Cuts
+    @(94.2250 mm, 96.0000 mm): Pad 3 [Net-(LED_1-DOUT)] of LED_6 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(93.2000 mm, 96.0472 mm): Segment of LED_6 on Edge.Cuts
+    @(94.2250 mm, 97.5000 mm): Pad 4 [VCC] of LED_6 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(108.8000 mm, 154.4528 mm): Segment of LED_4 on Edge.Cuts
+    @(107.7750 mm, 153.0000 mm): Pad 1 [Net-(LED_4-DOUT)] of LED_4 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(108.8000 mm, 154.4528 mm): Segment of LED_4 on Edge.Cuts
+    @(107.7750 mm, 154.5000 mm): Pad 2 [GND] of LED_4 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(112.2000 mm, 153.0472 mm): Segment of LED_4 on Edge.Cuts
+    @(113.2250 mm, 153.0000 mm): Pad 3 [Net-(LED_1-DIN)] of LED_4 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(112.2000 mm, 153.0472 mm): Segment of LED_4 on Edge.Cuts
+    @(113.2250 mm, 154.5000 mm): Pad 4 [VCC] of LED_4 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(32.8000 mm, 116.4528 mm): Segment of LED_22 on Edge.Cuts
+    @(31.7750 mm, 115.0000 mm): Pad 1 [unconnected-(LED_22-DOUT-Pad1)] of LED_22 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(32.8000 mm, 116.4528 mm): Segment of LED_22 on Edge.Cuts
+    @(31.7750 mm, 116.5000 mm): Pad 2 [GND] of LED_22 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(36.2000 mm, 115.0472 mm): Segment of LED_22 on Edge.Cuts
+    @(37.2250 mm, 115.0000 mm): Pad 3 [Net-(LED_17-DOUT)] of LED_22 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2533 mm)
+    Rule: board setup constraints edge; error
+    @(35.7990 mm, 116.8866 mm): Arc of LED_22 on Edge.Cuts
+    @(37.2250 mm, 116.5000 mm): Pad 4 [VCC] of LED_22 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(32.3000 mm, 96.0471 mm): Arc of LED_21 on Edge.Cuts
+    @(31.7750 mm, 96.0000 mm): Pad 1 [unconnected-(LED_21-DOUT-Pad1)] of LED_21 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(32.2996 mm, 97.4528 mm): Arc of LED_21 on Edge.Cuts
+    @(31.7750 mm, 97.5000 mm): Pad 2 [GND] of LED_21 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(36.7000 mm, 96.0472 mm): Arc of LED_21 on Edge.Cuts
+    @(37.2250 mm, 96.0000 mm): Pad 3 [Net-(LED_16-DOUT)] of LED_21 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2533 mm)
+    Rule: board setup constraints edge; error
+    @(35.7990 mm, 97.8866 mm): Arc of LED_21 on Edge.Cuts
+    @(37.2250 mm, 97.5000 mm): Pad 4 [VCC] of LED_21 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(51.8000 mm, 173.4528 mm): Segment of LED_20 on Edge.Cuts
+    @(50.7750 mm, 172.0000 mm): Pad 1 [Net-(LED_20-DOUT)] of LED_20 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(51.8000 mm, 173.4528 mm): Segment of LED_20 on Edge.Cuts
+    @(50.7750 mm, 173.5000 mm): Pad 2 [GND] of LED_20 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(55.2000 mm, 172.0472 mm): Segment of LED_20 on Edge.Cuts
+    @(56.2250 mm, 172.0000 mm): Pad 3 [Net-(LED_15-DOUT)] of LED_20 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(55.2000 mm, 172.0472 mm): Segment of LED_20 on Edge.Cuts
+    @(56.2250 mm, 173.5000 mm): Pad 4 [VCC] of LED_20 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(108.8000 mm, 97.4528 mm): Segment of LED_1 on Edge.Cuts
+    @(107.7750 mm, 96.0000 mm): Pad 1 [Net-(LED_1-DOUT)] of LED_1 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(109.2010 mm, 97.8866 mm): Arc of LED_1 on Edge.Cuts
+    @(107.7750 mm, 97.5000 mm): Pad 2 [GND] of LED_1 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(111.7990 mm, 95.6134 mm): Arc of LED_1 on Edge.Cuts
+    @(113.2250 mm, 96.0000 mm): Pad 3 [Net-(LED_1-DIN)] of LED_1 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2533 mm)
+    Rule: board setup constraints edge; error
+    @(111.7990 mm, 97.8866 mm): Arc of LED_1 on Edge.Cuts
+    @(113.2250 mm, 97.5000 mm): Pad 4 [VCC] of LED_1 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(51.8000 mm, 116.4528 mm): Segment of LED_17 on Edge.Cuts
+    @(50.7750 mm, 115.0000 mm): Pad 1 [Net-(LED_17-DOUT)] of LED_17 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(51.8000 mm, 116.4528 mm): Segment of LED_17 on Edge.Cuts
+    @(50.7750 mm, 116.5000 mm): Pad 2 [GND] of LED_17 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(54.7990 mm, 114.6134 mm): Arc of LED_17 on Edge.Cuts
+    @(56.2250 mm, 115.0000 mm): Pad 3 [Net-(LED_12-DOUT)] of LED_17 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3397 mm)
+    Rule: board setup constraints edge; error
+    @(55.7000 mm, 116.4528 mm): Arc of LED_17 on Edge.Cuts
+    @(56.2250 mm, 116.5000 mm): Pad 4 [VCC] of LED_17 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 97.4528 mm): Segment of LED_11 on Edge.Cuts
+    @(69.7750 mm, 96.0000 mm): Pad 1 [Net-(LED_11-DOUT)] of LED_11 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 97.4528 mm): Segment of LED_11 on Edge.Cuts
+    @(69.7750 mm, 97.5000 mm): Pad 2 [GND] of LED_11 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(73.7990 mm, 95.6134 mm): Arc of LED_11 on Edge.Cuts
+    @(75.2250 mm, 96.0000 mm): Pad 3 [Net-(LED_11-DIN)] of LED_11 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(74.2000 mm, 96.0472 mm): Segment of LED_11 on Edge.Cuts
+    @(75.2250 mm, 97.5000 mm): Pad 4 [VCC] of LED_11 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 135.4528 mm): Segment of LED_13 on Edge.Cuts
+    @(69.7750 mm, 134.0000 mm): Pad 1 [Net-(LED_13-DOUT)] of LED_13 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 135.4528 mm): Segment of LED_13 on Edge.Cuts
+    @(69.7750 mm, 135.5000 mm): Pad 2 [GND] of LED_13 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(73.7990 mm, 133.6134 mm): Arc of LED_13 on Edge.Cuts
+    @(75.2250 mm, 134.0000 mm): Pad 3 [Net-(LED_13-DIN)] of LED_13 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3397 mm)
+    Rule: board setup constraints edge; error
+    @(74.7000 mm, 135.4528 mm): Arc of LED_13 on Edge.Cuts
+    @(75.2250 mm, 135.5000 mm): Pad 4 [VCC] of LED_13 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 173.4528 mm): Segment of LED_15 on Edge.Cuts
+    @(69.7750 mm, 172.0000 mm): Pad 1 [Net-(LED_15-DOUT)] of LED_15 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 173.4528 mm): Segment of LED_15 on Edge.Cuts
+    @(69.7750 mm, 173.5000 mm): Pad 2 [GND] of LED_15 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(74.2000 mm, 172.0472 mm): Segment of LED_15 on Edge.Cuts
+    @(75.2250 mm, 172.0000 mm): Pad 3 [Net-(LED_10-DOUT)] of LED_15 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(74.2000 mm, 172.0472 mm): Segment of LED_15 on Edge.Cuts
+    @(75.2250 mm, 173.5000 mm): Pad 4 [VCC] of LED_15 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(108.8000 mm, 135.4528 mm): Segment of LED_3 on Edge.Cuts
+    @(107.7750 mm, 134.0000 mm): Pad 1 [Net-(LED_3-DOUT)] of LED_3 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(108.8000 mm, 135.4528 mm): Segment of LED_3 on Edge.Cuts
+    @(107.7750 mm, 135.5000 mm): Pad 2 [GND] of LED_3 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(112.2000 mm, 134.0472 mm): Segment of LED_3 on Edge.Cuts
+    @(113.2250 mm, 134.0000 mm): Pad 3 [Net-(LED_1-DIN)] of LED_3 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(112.2000 mm, 134.0472 mm): Segment of LED_3 on Edge.Cuts
+    @(113.2250 mm, 135.5000 mm): Pad 4 [VCC] of LED_3 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 154.4528 mm): Segment of LED_14 on Edge.Cuts
+    @(69.7750 mm, 153.0000 mm): Pad 1 [Net-(LED_14-DOUT)] of LED_14 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 154.4528 mm): Segment of LED_14 on Edge.Cuts
+    @(69.7750 mm, 154.5000 mm): Pad 2 [GND] of LED_14 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(73.7990 mm, 152.6134 mm): Arc of LED_14 on Edge.Cuts
+    @(75.2250 mm, 153.0000 mm): Pad 3 [Net-(LED_14-DIN)] of LED_14 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2533 mm)
+    Rule: board setup constraints edge; error
+    @(73.7990 mm, 154.8866 mm): Arc of LED_14 on Edge.Cuts
+    @(75.2250 mm, 154.5000 mm): Pad 4 [VCC] of LED_14 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(51.3000 mm, 134.0471 mm): Arc of LED_18 on Edge.Cuts
+    @(50.7750 mm, 134.0000 mm): Pad 1 [Net-(LED_18-DOUT)] of LED_18 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(51.2996 mm, 135.4528 mm): Arc of LED_18 on Edge.Cuts
+    @(50.7750 mm, 135.5000 mm): Pad 2 [GND] of LED_18 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(54.7990 mm, 133.6134 mm): Arc of LED_18 on Edge.Cuts
+    @(56.2250 mm, 134.0000 mm): Pad 3 [Net-(LED_13-DOUT)] of LED_18 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(55.2000 mm, 134.0472 mm): Segment of LED_18 on Edge.Cuts
+    @(56.2250 mm, 135.5000 mm): Pad 4 [VCC] of LED_18 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(32.8000 mm, 173.4528 mm): Segment of LED_25 on Edge.Cuts
+    @(31.7750 mm, 172.0000 mm): Pad 1 [unconnected-(LED_25-DOUT-Pad1)] of LED_25 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(32.8000 mm, 173.4528 mm): Segment of LED_25 on Edge.Cuts
+    @(31.7750 mm, 173.5000 mm): Pad 2 [GND] of LED_25 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(36.2000 mm, 172.0472 mm): Segment of LED_25 on Edge.Cuts
+    @(37.2250 mm, 172.0000 mm): Pad 3 [Net-(LED_20-DOUT)] of LED_25 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(36.2000 mm, 172.0472 mm): Segment of LED_25 on Edge.Cuts
+    @(37.2250 mm, 173.5000 mm): Pad 4 [VCC] of LED_25 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(89.8000 mm, 154.4528 mm): Segment of LED_9 on Edge.Cuts
+    @(88.7750 mm, 153.0000 mm): Pad 1 [Net-(LED_14-DIN)] of LED_9 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(89.8000 mm, 154.4528 mm): Segment of LED_9 on Edge.Cuts
+    @(88.7750 mm, 154.5000 mm): Pad 2 [GND] of LED_9 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(92.7990 mm, 152.6134 mm): Arc of LED_9 on Edge.Cuts
+    @(94.2250 mm, 153.0000 mm): Pad 3 [Net-(LED_4-DOUT)] of LED_9 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2533 mm)
+    Rule: board setup constraints edge; error
+    @(92.7990 mm, 154.8866 mm): Arc of LED_9 on Edge.Cuts
+    @(94.2250 mm, 154.5000 mm): Pad 4 [VCC] of LED_9 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(108.3000 mm, 172.0471 mm): Arc of LED_5 on Edge.Cuts
+    @(107.7750 mm, 172.0000 mm): Pad 1 [Net-(LED_10-DIN)] of LED_5 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(108.2996 mm, 173.4528 mm): Arc of LED_5 on Edge.Cuts
+    @(107.7750 mm, 173.5000 mm): Pad 2 [GND] of LED_5 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(111.7990 mm, 171.6134 mm): Arc of LED_5 on Edge.Cuts
+    @(113.2250 mm, 172.0000 mm): Pad 3 [Net-(LED_1-DIN)] of LED_5 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(112.2000 mm, 172.0472 mm): Segment of LED_5 on Edge.Cuts
+    @(113.2250 mm, 173.5000 mm): Pad 4 [VCC] of LED_5 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(51.8000 mm, 97.4528 mm): Segment of LED_16 on Edge.Cuts
+    @(50.7750 mm, 96.0000 mm): Pad 1 [Net-(LED_16-DOUT)] of LED_16 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(51.8000 mm, 97.4528 mm): Segment of LED_16 on Edge.Cuts
+    @(50.7750 mm, 97.5000 mm): Pad 2 [GND] of LED_16 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(54.7990 mm, 95.6134 mm): Arc of LED_16 on Edge.Cuts
+    @(56.2250 mm, 96.0000 mm): Pad 3 [Net-(LED_11-DOUT)] of LED_16 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(55.2000 mm, 96.0472 mm): Segment of LED_16 on Edge.Cuts
+    @(56.2250 mm, 97.5000 mm): Pad 4 [VCC] of LED_16 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 116.4528 mm): Segment of LED_12 on Edge.Cuts
+    @(69.7750 mm, 115.0000 mm): Pad 1 [Net-(LED_12-DOUT)] of LED_12 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 116.4528 mm): Segment of LED_12 on Edge.Cuts
+    @(69.7750 mm, 116.5000 mm): Pad 2 [GND] of LED_12 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(74.2000 mm, 115.0472 mm): Segment of LED_12 on Edge.Cuts
+    @(75.2250 mm, 115.0000 mm): Pad 3 [Net-(LED_12-DIN)] of LED_12 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(74.2000 mm, 115.0472 mm): Segment of LED_12 on Edge.Cuts
+    @(75.2250 mm, 116.5000 mm): Pad 4 [VCC] of LED_12 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(90.0500 mm, 116.4528 mm): Segment of LED_7 on Edge.Cuts
+    @(89.0250 mm, 115.0000 mm): Pad 1 [Net-(LED_12-DIN)] of LED_7 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(90.0500 mm, 116.4528 mm): Segment of LED_7 on Edge.Cuts
+    @(89.0250 mm, 116.5000 mm): Pad 2 [GND] of LED_7 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(93.4500 mm, 115.0472 mm): Segment of LED_7 on Edge.Cuts
+    @(94.4750 mm, 115.0000 mm): Pad 3 [Net-(LED_2-DOUT)] of LED_7 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(93.4500 mm, 115.0472 mm): Segment of LED_7 on Edge.Cuts
+    @(94.4750 mm, 116.5000 mm): Pad 4 [VCC] of LED_7 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(32.8000 mm, 154.4528 mm): Segment of LED_24 on Edge.Cuts
+    @(31.7750 mm, 153.0000 mm): Pad 1 [unconnected-(LED_24-DOUT-Pad1)] of LED_24 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(32.8000 mm, 154.4528 mm): Segment of LED_24 on Edge.Cuts
+    @(31.7750 mm, 154.5000 mm): Pad 2 [GND] of LED_24 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(36.2000 mm, 153.0472 mm): Segment of LED_24 on Edge.Cuts
+    @(37.2250 mm, 153.0000 mm): Pad 3 [Net-(LED_19-DOUT)] of LED_24 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(36.2000 mm, 153.0472 mm): Segment of LED_24 on Edge.Cuts
+    @(37.2250 mm, 154.5000 mm): Pad 4 [VCC] of LED_24 on B.Cu
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.0000 mm, 30.0000 mm): Rectangle on Edge.Cuts
+    @(35.1100 mm, 29.9700 mm): Segment of MCU1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.0000 mm, 30.0000 mm): Rectangle on Edge.Cuts
+    @(52.8900 mm, 29.9700 mm): Segment of MCU1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.0000 mm, 30.0000 mm): Rectangle on Edge.Cuts
+    @(52.8900 mm, 32.5100 mm): Segment of MCU1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.0000 mm, 30.0000 mm): Rectangle on Edge.Cuts
+    @(35.1100 mm, 29.9700 mm): Segment of MCU1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.0000 mm, 30.0000 mm): Rectangle on Edge.Cuts
+    @(52.8900 mm, 29.9700 mm): Segment of MCU1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.0000 mm, 30.0000 mm): Rectangle on Edge.Cuts
+    @(52.8900 mm, 62.9900 mm): Segment of MCU1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(70.8000 mm, 97.4528 mm): Segment of LED_11 on Edge.Cuts
+    @(72.7500 mm, 96.7500 mm): Footprint text of LED_11 (LED_11)
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(75.2500 mm, 117.6500 mm): Via [VCC] on F.Cu - B.Cu
+    @(75.2500 mm, 117.6500 mm): Via [VCC] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(59.5000 mm, 98.7500 mm): Via [GND] on F.Cu - B.Cu
+    @(59.5000 mm, 98.7500 mm): Via [GND] on F.Cu - B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(20.1500 mm, 52.0000 mm): Segment of SW26_SPDT1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(20.1500 mm, 52.0000 mm): Segment of SW26_SPDT1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(20.1500 mm, 55.3000 mm): Segment of SW26_SPDT1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(23.0000 mm, 48.7000 mm): Segment of SW26_SPDT1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(23.0000 mm, 55.3000 mm): Segment of SW26_SPDT1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(22.5000 mm, 67.0000 mm): Segment of J1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 33.7800 mm): PTH pad 1 [LED] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 33.7800 mm): PTH pad 1 [LED] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 36.3200 mm): PTH pad 2 [nice!view_MOSI] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 36.3200 mm): PTH pad 2 [nice!view_MOSI] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 38.8600 mm): PTH pad 3 [GND] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 38.8600 mm): PTH pad 3 [GND] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 41.4000 mm): PTH pad 4 [unconnected-(MCU1-GND-Pad4)] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 41.4000 mm): PTH pad 4 [unconnected-(MCU1-GND-Pad4)] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 43.9400 mm): PTH pad 5 [nice!view_SCK] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 43.9400 mm): PTH pad 5 [nice!view_SCK] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 46.4800 mm): PTH pad 6 [nice!view_CS] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 46.4800 mm): PTH pad 6 [nice!view_CS] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 49.0200 mm): PTH pad 7 [ROW 0] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 49.0200 mm): PTH pad 7 [ROW 0] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 51.5600 mm): PTH pad 8 [ROW 1] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 51.5600 mm): PTH pad 8 [ROW 1] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 54.1000 mm): PTH pad 9 [ROW 2] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 54.1000 mm): PTH pad 9 [ROW 2] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 56.6400 mm): PTH pad 10 [ROW 3] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 56.6400 mm): PTH pad 10 [ROW 3] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 59.1800 mm): PTH pad 11 [ROW 4] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 59.1800 mm): PTH pad 11 [ROW 4] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 61.7200 mm): PTH pad 12 [COL 0] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 61.7200 mm): PTH pad 12 [COL 0] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 61.7200 mm): PTH pad 13 [EC_03_RB] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 61.7200 mm): PTH pad 13 [EC_03_RB] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 59.1800 mm): PTH pad 14 [EC_02_RB] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 59.1800 mm): PTH pad 14 [EC_02_RB] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 56.6400 mm): PTH pad 15 [EC_01_RA] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 56.6400 mm): PTH pad 15 [EC_01_RA] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 54.1000 mm): PTH pad 16 [COL 5] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 54.1000 mm): PTH pad 16 [COL 5] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 51.5600 mm): PTH pad 17 [COL 4] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 51.5600 mm): PTH pad 17 [COL 4] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 49.0200 mm): PTH pad 18 [COL 3] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 49.0200 mm): PTH pad 18 [COL 3] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 46.4800 mm): PTH pad 19 [COL 2] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 46.4800 mm): PTH pad 19 [COL 2] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 43.9400 mm): PTH pad 20 [COL 1] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 43.9400 mm): PTH pad 20 [COL 1] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 41.4000 mm): PTH pad 21 [VCC] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 41.4000 mm): PTH pad 21 [VCC] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 38.8600 mm): PTH pad 22 [MCU-RST] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 38.8600 mm): PTH pad 22 [MCU-RST] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 36.3200 mm): PTH pad 23 [unconnected-(MCU1-GND-Pad23)] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 36.3200 mm): PTH pad 23 [unconnected-(MCU1-GND-Pad23)] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 33.7800 mm): PTH pad 24 [BATIN] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 33.7800 mm): PTH pad 24 [BATIN] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(38.9200 mm, 56.6400 mm): PTH pad 31 [EC_03_RA] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(38.9200 mm, 56.6400 mm): PTH pad 31 [EC_03_RA] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(41.4600 mm, 56.6400 mm): PTH pad 32 [EC_01_RB] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(41.4600 mm, 56.6400 mm): PTH pad 32 [EC_01_RB] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(44.0000 mm, 56.6400 mm): PTH pad 33 [EC_02_RA] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(44.0000 mm, 56.6400 mm): PTH pad 33 [EC_02_RA] of MCU1
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(25.0000 mm, 82.5000 mm): Rectangle on F.Silkscreen
+    @(26.7500 mm, 182.7500 mm): PCB text 'MUHAMMAD SAIM GHAZANFAR!' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.5000 mm, 82.5000 mm): Dimension '7' on F.Silkscreen
+    @(25.0000 mm, 82.5000 mm): Rectangle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(25.0000 mm, 82.5000 mm): Rectangle on F.Silkscreen
+    @(65.5000 mm, 85.0000 mm): Dimension '10' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.5000 mm, 82.5000 mm): Dimension '7' on F.Silkscreen
+    @(63.0000 mm, 56.5000 mm): Rectangle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(63.0000 mm, 56.5000 mm): Rectangle on F.Silkscreen
+    @(65.5000 mm, 85.0000 mm): Dimension '10' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(85.0200 mm, 36.6500 mm): Rectangle of Display1 on F.Silkscreen
+    @(82.5100 mm, 36.0000 mm): Rectangle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(41.0168 mm, 50.0576 mm): Polygon of G*** on F.Silkscreen
+    @(44.5000 mm, 44.5000 mm): Reference field of G***
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(25.0000 mm, 82.5000 mm): Rectangle on B.Silkscreen
+    @(118.5000 mm, 182.7500 mm): PCB text 'MUHAMMAD SAIM GHAZANFAR!' on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(60.0000 mm, 138.7100 mm): Segment of D_18 on B.Silkscreen
+    @(59.5000 mm, 136.7500 mm): Footprint text of LED_18 (LED_01)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(40.5000 mm, 174.7500 mm): Footprint text of LED_25 (LED_01)
+    @(41.0000 mm, 176.8600 mm): Segment of D_25 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(59.5000 mm, 174.7500 mm): Footprint text of LED_20 (LED_01)
+    @(60.0000 mm, 176.6100 mm): Segment of D_20 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(60.0000 mm, 157.6100 mm): Segment of D_19 on B.Silkscreen
+    @(59.5000 mm, 155.7500 mm): Footprint text of LED_19 (LED_01)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(78.5000 mm, 174.7500 mm): Footprint text of LED_15 (LED_01)
+    @(79.0000 mm, 176.6100 mm): Segment of D_15 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(78.5000 mm, 155.7500 mm): Footprint text of LED_14 (LED_01)
+    @(79.0000 mm, 157.7100 mm): Segment of D_14 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(41.0000 mm, 157.4600 mm): Segment of D_24 on B.Silkscreen
+    @(40.5000 mm, 155.7500 mm): Footprint text of LED_24 (LED_01)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(44.0105 mm, 82.4750 mm): Dimension '19.485' on B.Silkscreen
+    @(44.0000 mm, 82.5000 mm): Segment on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(25.0000 mm, 82.5000 mm): Rectangle on B.Silkscreen
+    @(44.0105 mm, 82.4750 mm): Dimension '19.485' on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(35.1100 mm, 62.9900 mm): Segment of MCU1 on B.Silkscreen
+    @(44.0105 mm, 82.4750 mm): Dimension '19.485' on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(41.0000 mm, 100.8600 mm): Segment of D_21 on B.Silkscreen
+    @(40.5000 mm, 98.7500 mm): Footprint text of LED_21 (LED_01)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(25.0000 mm, 82.5000 mm): Rectangle on B.Silkscreen
+    @(120.5000 mm, 172.2000 mm): Reference field of D_5
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(40.5000 mm, 136.7500 mm): Footprint text of LED_23 (LED_01)
+    @(41.0000 mm, 138.6100 mm): Segment of D_23 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(97.5000 mm, 174.7500 mm): Footprint text of LED_10 (LED_01)
+    @(98.0000 mm, 176.7100 mm): Segment of D_10 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(117.0000 mm, 176.7100 mm): Segment of D_5 on B.Silkscreen
+    @(116.5000 mm, 174.7500 mm): Footprint text of LED_5 (LED_01)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(41.0000 mm, 119.8600 mm): Segment of D_22 on B.Silkscreen
+    @(40.5000 mm, 117.7500 mm): Footprint text of LED_22 (LED_01)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(59.5000 mm, 117.7500 mm): Footprint text of LED_17 (LED_01)
+    @(60.0000 mm, 119.6100 mm): Segment of D_17 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(60.0000 mm, 100.7100 mm): Segment of D_16 on B.Silkscreen
+    @(59.5000 mm, 98.7500 mm): Footprint text of LED_16 (LED_01)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(78.5000 mm, 136.7500 mm): Footprint text of LED_13 (LED_01)
+    @(79.0000 mm, 138.8600 mm): Segment of D_13 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(97.7500 mm, 117.7500 mm): Footprint text of LED_7 (LED_01)
+    @(98.2500 mm, 119.8600 mm): Segment of D_7 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(81.0000 mm, 34.5000 mm): Rectangle on B.Silkscreen
+    @(86.2500 mm, 35.2500 mm): PCB text 'nice!view' on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(100.2600 mm, 43.0000 mm): Reference field of G***
+    @(105.8176 mm, 39.5168 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(52.8900 mm, 62.9900 mm): Segment of MCU1 on B.Silkscreen
+    @(53.0000 mm, 35.5000 mm): Dimension '28' on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(81.0000 mm, 34.5000 mm): Rectangle on B.Silkscreen
+    @(53.0000 mm, 35.5000 mm): Dimension '28' on B.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 4 Footprint errors **
+[extra_footprint]: Extra footprint
+    Local override; warning
+    @(122.5000 mm, 180.0000 mm): Footprint 3rd_2mm
+[extra_footprint]: Extra footprint
+    Local override; warning
+    @(22.5000 mm, 32.5000 mm): Footprint 1st_2mm
+[extra_footprint]: Extra footprint
+    Local override; warning
+    @(122.5000 mm, 32.5000 mm): Footprint 2nd_2mm
+[extra_footprint]: Extra footprint
+    Local override; warning
+    @(22.5000 mm, 180.0000 mm): Footprint 4th_2mm
+
+** End of Report **

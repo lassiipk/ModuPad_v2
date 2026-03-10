@@ -1,0 +1,1681 @@
+** Drc report for ModuPad_v2.kicad_pcb **
+** Created on 2026-01-22T18:56:52+0500 **
+
+** Found 443 DRC violations **
+[text_on_edge_cuts]: Text (or dimension) on Edge.Cuts layer
+    Local override; error
+    @(77.2500 mm, 56.5000 mm): PCB text 'SAIM' on Edge.Cuts
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.5000 mm, 172.7500 mm): Footprint LED_10
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.5000 mm, 172.7500 mm): Footprint LED_10
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(91.5000 mm, 172.7500 mm): Footprint LED_10
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(91.5000 mm, 172.7500 mm): Footprint LED_10
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 134.7500 mm): Footprint LED_23
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 134.7500 mm): Footprint LED_23
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(34.5000 mm, 134.7500 mm): Footprint LED_23
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.5000 mm, 134.7500 mm): Footprint LED_8
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.5000 mm, 134.7500 mm): Footprint LED_8
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 115.7500 mm): Footprint LED_2
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 115.7500 mm): Footprint LED_2
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 153.7500 mm): Footprint LED_19
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 153.7500 mm): Footprint LED_19
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(53.5000 mm, 153.7500 mm): Footprint LED_19
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.5000 mm, 96.7500 mm): Footprint LED_6
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.5000 mm, 96.7500 mm): Footprint LED_6
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 153.7500 mm): Footprint LED_4
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 153.7500 mm): Footprint LED_4
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 115.7500 mm): Footprint LED_22
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 115.7500 mm): Footprint LED_22
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(34.5000 mm, 115.7500 mm): Footprint LED_22
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 96.7500 mm): Footprint LED_21
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 96.7500 mm): Footprint LED_21
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 172.7500 mm): Footprint LED_20
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 172.7500 mm): Footprint LED_20
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 96.7500 mm): Footprint LED_1
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 96.7500 mm): Footprint LED_1
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(110.5000 mm, 96.7500 mm): Footprint LED_1
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 115.7500 mm): Footprint LED_17
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 115.7500 mm): Footprint LED_17
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(53.5000 mm, 115.7500 mm): Footprint LED_17
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(53.5000 mm, 115.7500 mm): Footprint LED_17
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 96.7500 mm): Footprint LED_11
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 96.7500 mm): Footprint LED_11
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 134.7500 mm): Footprint LED_13
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 134.7500 mm): Footprint LED_13
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(72.5000 mm, 134.7500 mm): Footprint LED_13
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 172.7500 mm): Footprint LED_15
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 172.7500 mm): Footprint LED_15
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(72.5000 mm, 172.7500 mm): Footprint LED_15
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 134.7500 mm): Footprint LED_3
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 134.7500 mm): Footprint LED_3
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(110.5000 mm, 134.7500 mm): Footprint LED_3
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(110.5000 mm, 134.7500 mm): Footprint LED_3
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 153.7500 mm): Footprint LED_14
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 153.7500 mm): Footprint LED_14
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(72.5000 mm, 153.7500 mm): Footprint LED_14
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(72.5000 mm, 153.7500 mm): Footprint LED_14
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 134.7500 mm): Footprint LED_18
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 134.7500 mm): Footprint LED_18
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 172.7500 mm): Footprint LED_25
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 172.7500 mm): Footprint LED_25
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(34.5000 mm, 172.7500 mm): Footprint LED_25
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(34.5000 mm, 172.7500 mm): Footprint LED_25
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.5000 mm, 153.7500 mm): Footprint LED_9
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.5000 mm, 153.7500 mm): Footprint LED_9
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(91.5000 mm, 153.7500 mm): Footprint LED_9
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 172.7500 mm): Footprint LED_5
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(110.5000 mm, 172.7500 mm): Footprint LED_5
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(110.5000 mm, 172.7500 mm): Footprint LED_5
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 96.7500 mm): Footprint LED_16
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(53.5000 mm, 96.7500 mm): Footprint LED_16
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(53.5000 mm, 96.7500 mm): Footprint LED_16
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 115.7500 mm): Footprint LED_12
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(72.5000 mm, 115.7500 mm): Footprint LED_12
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(72.5000 mm, 115.7500 mm): Footprint LED_12
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.7500 mm, 115.7500 mm): Footprint LED_7
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(91.7500 mm, 115.7500 mm): Footprint LED_7
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 153.7500 mm): Footprint LED_24
+[malformed_courtyard]: Footprint has malformed courtyard (not a closed shape)
+    Local override; error
+    @(34.5000 mm, 153.7500 mm): Footprint LED_24
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(34.5000 mm, 153.7500 mm): Footprint LED_24
+[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
+    Local override; error
+    @(34.5000 mm, 153.7500 mm): Footprint LED_24
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0000 mm)
+    Rule: board setup constraints edge; error
+    @(20.0000 mm, 30.0000 mm): Rectangle on Edge.Cuts
+    @(20.4000 mm, 55.7000 mm): Pad [<no net>] of SW26_SPDT1 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0000 mm)
+    Rule: board setup constraints edge; error
+    @(20.0000 mm, 30.0000 mm): Rectangle on Edge.Cuts
+    @(20.4000 mm, 48.3000 mm): Pad [<no net>] of SW26_SPDT1 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(89.8000 mm, 173.4528 mm): Segment of LED_10 on Edge.Cuts
+    @(88.7750 mm, 172.0000 mm): Pad 1 [Net-(LED_10-DOUT)] of LED_10 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(89.8000 mm, 173.4528 mm): Segment of LED_10 on Edge.Cuts
+    @(88.7750 mm, 173.5000 mm): Pad 2 [GND] of LED_10 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(93.2000 mm, 172.0472 mm): Segment of LED_10 on Edge.Cuts
+    @(94.2250 mm, 172.0000 mm): Pad 3 [Net-(LED_10-DIN)] of LED_10 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(93.2000 mm, 172.0472 mm): Segment of LED_10 on Edge.Cuts
+    @(94.2250 mm, 173.5000 mm): Pad 4 [VCC] of LED_10 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(32.8000 mm, 135.4528 mm): Segment of LED_23 on Edge.Cuts
+    @(31.7750 mm, 134.0000 mm): Pad 1 [unconnected-(LED_23-DOUT-Pad1)] of LED_23 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(32.8000 mm, 135.4528 mm): Segment of LED_23 on Edge.Cuts
+    @(31.7750 mm, 135.5000 mm): Pad 2 [GND] of LED_23 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(36.7000 mm, 134.0472 mm): Arc of LED_23 on Edge.Cuts
+    @(37.2250 mm, 134.0000 mm): Pad 3 [Net-(LED_18-DOUT)] of LED_23 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3397 mm)
+    Rule: board setup constraints edge; error
+    @(36.7000 mm, 135.4528 mm): Arc of LED_23 on Edge.Cuts
+    @(37.2250 mm, 135.5000 mm): Pad 4 [VCC] of LED_23 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(89.8000 mm, 135.4528 mm): Segment of LED_8 on Edge.Cuts
+    @(88.7750 mm, 134.0000 mm): Pad 1 [Net-(LED_13-DIN)] of LED_8 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(89.8000 mm, 135.4528 mm): Segment of LED_8 on Edge.Cuts
+    @(88.7750 mm, 135.5000 mm): Pad 2 [GND] of LED_8 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(93.2000 mm, 134.0472 mm): Segment of LED_8 on Edge.Cuts
+    @(94.2250 mm, 134.0000 mm): Pad 3 [Net-(LED_3-DOUT)] of LED_8 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(93.2000 mm, 134.0472 mm): Segment of LED_8 on Edge.Cuts
+    @(94.2250 mm, 135.5000 mm): Pad 4 [VCC] of LED_8 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(108.8000 mm, 116.4528 mm): Segment of LED_2 on Edge.Cuts
+    @(107.7750 mm, 115.0000 mm): Pad 1 [Net-(LED_2-DOUT)] of LED_2 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(108.8000 mm, 116.4528 mm): Segment of LED_2 on Edge.Cuts
+    @(107.7750 mm, 116.5000 mm): Pad 2 [GND] of LED_2 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(112.2000 mm, 115.0472 mm): Segment of LED_2 on Edge.Cuts
+    @(113.2250 mm, 115.0000 mm): Pad 3 [Net-(LED_1-DIN)] of LED_2 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(112.2000 mm, 115.0472 mm): Segment of LED_2 on Edge.Cuts
+    @(113.2250 mm, 116.5000 mm): Pad 4 [VCC] of LED_2 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(51.8000 mm, 154.4528 mm): Segment of LED_19 on Edge.Cuts
+    @(50.7750 mm, 153.0000 mm): Pad 1 [Net-(LED_19-DOUT)] of LED_19 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(51.8000 mm, 154.4528 mm): Segment of LED_19 on Edge.Cuts
+    @(50.7750 mm, 154.5000 mm): Pad 2 [GND] of LED_19 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(55.2000 mm, 153.0472 mm): Segment of LED_19 on Edge.Cuts
+    @(56.2250 mm, 153.0000 mm): Pad 3 [Net-(LED_14-DOUT)] of LED_19 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(55.2000 mm, 153.0472 mm): Segment of LED_19 on Edge.Cuts
+    @(56.2250 mm, 154.5000 mm): Pad 4 [VCC] of LED_19 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2531 mm)
+    Rule: board setup constraints edge; error
+    @(90.2010 mm, 95.6134 mm): Arc of LED_6 on Edge.Cuts
+    @(88.7750 mm, 96.0000 mm): Pad 1 [Net-(LED_11-DIN)] of LED_6 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(89.2996 mm, 97.4528 mm): Arc of LED_6 on Edge.Cuts
+    @(88.7750 mm, 97.5000 mm): Pad 2 [GND] of LED_6 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(92.7990 mm, 95.6134 mm): Arc of LED_6 on Edge.Cuts
+    @(94.2250 mm, 96.0000 mm): Pad 3 [Net-(LED_1-DOUT)] of LED_6 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(93.2000 mm, 96.0472 mm): Segment of LED_6 on Edge.Cuts
+    @(94.2250 mm, 97.5000 mm): Pad 4 [VCC] of LED_6 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(108.8000 mm, 154.4528 mm): Segment of LED_4 on Edge.Cuts
+    @(107.7750 mm, 153.0000 mm): Pad 1 [Net-(LED_4-DOUT)] of LED_4 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(108.8000 mm, 154.4528 mm): Segment of LED_4 on Edge.Cuts
+    @(107.7750 mm, 154.5000 mm): Pad 2 [GND] of LED_4 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(112.2000 mm, 153.0472 mm): Segment of LED_4 on Edge.Cuts
+    @(113.2250 mm, 153.0000 mm): Pad 3 [Net-(LED_1-DIN)] of LED_4 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(112.2000 mm, 153.0472 mm): Segment of LED_4 on Edge.Cuts
+    @(113.2250 mm, 154.5000 mm): Pad 4 [VCC] of LED_4 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(32.8000 mm, 116.4528 mm): Segment of LED_22 on Edge.Cuts
+    @(31.7750 mm, 115.0000 mm): Pad 1 [unconnected-(LED_22-DOUT-Pad1)] of LED_22 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(32.8000 mm, 116.4528 mm): Segment of LED_22 on Edge.Cuts
+    @(31.7750 mm, 116.5000 mm): Pad 2 [GND] of LED_22 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(36.2000 mm, 115.0472 mm): Segment of LED_22 on Edge.Cuts
+    @(37.2250 mm, 115.0000 mm): Pad 3 [Net-(LED_17-DOUT)] of LED_22 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2533 mm)
+    Rule: board setup constraints edge; error
+    @(35.7990 mm, 116.8866 mm): Arc of LED_22 on Edge.Cuts
+    @(37.2250 mm, 116.5000 mm): Pad 4 [VCC] of LED_22 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(32.3000 mm, 96.0471 mm): Arc of LED_21 on Edge.Cuts
+    @(31.7750 mm, 96.0000 mm): Pad 1 [unconnected-(LED_21-DOUT-Pad1)] of LED_21 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(32.2996 mm, 97.4528 mm): Arc of LED_21 on Edge.Cuts
+    @(31.7750 mm, 97.5000 mm): Pad 2 [GND] of LED_21 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(36.7000 mm, 96.0472 mm): Arc of LED_21 on Edge.Cuts
+    @(37.2250 mm, 96.0000 mm): Pad 3 [Net-(LED_16-DOUT)] of LED_21 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2533 mm)
+    Rule: board setup constraints edge; error
+    @(35.7990 mm, 97.8866 mm): Arc of LED_21 on Edge.Cuts
+    @(37.2250 mm, 97.5000 mm): Pad 4 [VCC] of LED_21 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(51.8000 mm, 173.4528 mm): Segment of LED_20 on Edge.Cuts
+    @(50.7750 mm, 172.0000 mm): Pad 1 [Net-(LED_20-DOUT)] of LED_20 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(51.8000 mm, 173.4528 mm): Segment of LED_20 on Edge.Cuts
+    @(50.7750 mm, 173.5000 mm): Pad 2 [GND] of LED_20 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(55.2000 mm, 172.0472 mm): Segment of LED_20 on Edge.Cuts
+    @(56.2250 mm, 172.0000 mm): Pad 3 [Net-(LED_15-DOUT)] of LED_20 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(55.2000 mm, 172.0472 mm): Segment of LED_20 on Edge.Cuts
+    @(56.2250 mm, 173.5000 mm): Pad 4 [VCC] of LED_20 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(108.8000 mm, 97.4528 mm): Segment of LED_1 on Edge.Cuts
+    @(107.7750 mm, 96.0000 mm): Pad 1 [Net-(LED_1-DOUT)] of LED_1 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(109.2010 mm, 97.8866 mm): Arc of LED_1 on Edge.Cuts
+    @(107.7750 mm, 97.5000 mm): Pad 2 [GND] of LED_1 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(111.7990 mm, 95.6134 mm): Arc of LED_1 on Edge.Cuts
+    @(113.2250 mm, 96.0000 mm): Pad 3 [Net-(LED_1-DIN)] of LED_1 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2533 mm)
+    Rule: board setup constraints edge; error
+    @(111.7990 mm, 97.8866 mm): Arc of LED_1 on Edge.Cuts
+    @(113.2250 mm, 97.5000 mm): Pad 4 [VCC] of LED_1 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(51.8000 mm, 116.4528 mm): Segment of LED_17 on Edge.Cuts
+    @(50.7750 mm, 115.0000 mm): Pad 1 [Net-(LED_17-DOUT)] of LED_17 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(51.8000 mm, 116.4528 mm): Segment of LED_17 on Edge.Cuts
+    @(50.7750 mm, 116.5000 mm): Pad 2 [GND] of LED_17 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(54.7990 mm, 114.6134 mm): Arc of LED_17 on Edge.Cuts
+    @(56.2250 mm, 115.0000 mm): Pad 3 [Net-(LED_12-DOUT)] of LED_17 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3397 mm)
+    Rule: board setup constraints edge; error
+    @(55.7000 mm, 116.4528 mm): Arc of LED_17 on Edge.Cuts
+    @(56.2250 mm, 116.5000 mm): Pad 4 [VCC] of LED_17 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 97.4528 mm): Segment of LED_11 on Edge.Cuts
+    @(69.7750 mm, 96.0000 mm): Pad 1 [Net-(LED_11-DOUT)] of LED_11 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 97.4528 mm): Segment of LED_11 on Edge.Cuts
+    @(69.7750 mm, 97.5000 mm): Pad 2 [GND] of LED_11 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(73.7990 mm, 95.6134 mm): Arc of LED_11 on Edge.Cuts
+    @(75.2250 mm, 96.0000 mm): Pad 3 [Net-(LED_11-DIN)] of LED_11 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(74.2000 mm, 96.0472 mm): Segment of LED_11 on Edge.Cuts
+    @(75.2250 mm, 97.5000 mm): Pad 4 [VCC] of LED_11 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 135.4528 mm): Segment of LED_13 on Edge.Cuts
+    @(69.7750 mm, 134.0000 mm): Pad 1 [Net-(LED_13-DOUT)] of LED_13 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 135.4528 mm): Segment of LED_13 on Edge.Cuts
+    @(69.7750 mm, 135.5000 mm): Pad 2 [GND] of LED_13 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(73.7990 mm, 133.6134 mm): Arc of LED_13 on Edge.Cuts
+    @(75.2250 mm, 134.0000 mm): Pad 3 [Net-(LED_13-DIN)] of LED_13 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3397 mm)
+    Rule: board setup constraints edge; error
+    @(74.7000 mm, 135.4528 mm): Arc of LED_13 on Edge.Cuts
+    @(75.2250 mm, 135.5000 mm): Pad 4 [VCC] of LED_13 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 173.4528 mm): Segment of LED_15 on Edge.Cuts
+    @(69.7750 mm, 172.0000 mm): Pad 1 [Net-(LED_15-DOUT)] of LED_15 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 173.4528 mm): Segment of LED_15 on Edge.Cuts
+    @(69.7750 mm, 173.5000 mm): Pad 2 [GND] of LED_15 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(74.2000 mm, 172.0472 mm): Segment of LED_15 on Edge.Cuts
+    @(75.2250 mm, 172.0000 mm): Pad 3 [Net-(LED_10-DOUT)] of LED_15 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(74.2000 mm, 172.0472 mm): Segment of LED_15 on Edge.Cuts
+    @(75.2250 mm, 173.5000 mm): Pad 4 [VCC] of LED_15 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(108.8000 mm, 135.4528 mm): Segment of LED_3 on Edge.Cuts
+    @(107.7750 mm, 134.0000 mm): Pad 1 [Net-(LED_3-DOUT)] of LED_3 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(108.8000 mm, 135.4528 mm): Segment of LED_3 on Edge.Cuts
+    @(107.7750 mm, 135.5000 mm): Pad 2 [GND] of LED_3 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(112.2000 mm, 134.0472 mm): Segment of LED_3 on Edge.Cuts
+    @(113.2250 mm, 134.0000 mm): Pad 3 [Net-(LED_1-DIN)] of LED_3 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(112.2000 mm, 134.0472 mm): Segment of LED_3 on Edge.Cuts
+    @(113.2250 mm, 135.5000 mm): Pad 4 [VCC] of LED_3 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 154.4528 mm): Segment of LED_14 on Edge.Cuts
+    @(69.7750 mm, 153.0000 mm): Pad 1 [Net-(LED_14-DOUT)] of LED_14 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 154.4528 mm): Segment of LED_14 on Edge.Cuts
+    @(69.7750 mm, 154.5000 mm): Pad 2 [GND] of LED_14 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(73.7990 mm, 152.6134 mm): Arc of LED_14 on Edge.Cuts
+    @(75.2250 mm, 153.0000 mm): Pad 3 [Net-(LED_14-DIN)] of LED_14 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2533 mm)
+    Rule: board setup constraints edge; error
+    @(73.7990 mm, 154.8866 mm): Arc of LED_14 on Edge.Cuts
+    @(75.2250 mm, 154.5000 mm): Pad 4 [VCC] of LED_14 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(51.3000 mm, 134.0471 mm): Arc of LED_18 on Edge.Cuts
+    @(50.7750 mm, 134.0000 mm): Pad 1 [Net-(LED_18-DOUT)] of LED_18 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(51.2996 mm, 135.4528 mm): Arc of LED_18 on Edge.Cuts
+    @(50.7750 mm, 135.5000 mm): Pad 2 [GND] of LED_18 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(54.7990 mm, 133.6134 mm): Arc of LED_18 on Edge.Cuts
+    @(56.2250 mm, 134.0000 mm): Pad 3 [Net-(LED_13-DOUT)] of LED_18 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(55.2000 mm, 134.0472 mm): Segment of LED_18 on Edge.Cuts
+    @(56.2250 mm, 135.5000 mm): Pad 4 [VCC] of LED_18 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(32.8000 mm, 173.4528 mm): Segment of LED_25 on Edge.Cuts
+    @(31.7750 mm, 172.0000 mm): Pad 1 [unconnected-(LED_25-DOUT-Pad1)] of LED_25 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(32.8000 mm, 173.4528 mm): Segment of LED_25 on Edge.Cuts
+    @(31.7750 mm, 173.5000 mm): Pad 2 [GND] of LED_25 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(36.2000 mm, 172.0472 mm): Segment of LED_25 on Edge.Cuts
+    @(37.2250 mm, 172.0000 mm): Pad 3 [Net-(LED_20-DOUT)] of LED_25 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(36.2000 mm, 172.0472 mm): Segment of LED_25 on Edge.Cuts
+    @(37.2250 mm, 173.5000 mm): Pad 4 [VCC] of LED_25 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(89.8000 mm, 154.4528 mm): Segment of LED_9 on Edge.Cuts
+    @(88.7750 mm, 153.0000 mm): Pad 1 [Net-(LED_14-DIN)] of LED_9 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(89.8000 mm, 154.4528 mm): Segment of LED_9 on Edge.Cuts
+    @(88.7750 mm, 154.5000 mm): Pad 2 [GND] of LED_9 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(92.7990 mm, 152.6134 mm): Arc of LED_9 on Edge.Cuts
+    @(94.2250 mm, 153.0000 mm): Pad 3 [Net-(LED_4-DOUT)] of LED_9 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2533 mm)
+    Rule: board setup constraints edge; error
+    @(92.7990 mm, 154.8866 mm): Arc of LED_9 on Edge.Cuts
+    @(94.2250 mm, 154.5000 mm): Pad 4 [VCC] of LED_9 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(108.3000 mm, 172.0471 mm): Arc of LED_5 on Edge.Cuts
+    @(107.7750 mm, 172.0000 mm): Pad 1 [Net-(LED_10-DIN)] of LED_5 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3320 mm)
+    Rule: board setup constraints edge; error
+    @(108.2996 mm, 173.4528 mm): Arc of LED_5 on Edge.Cuts
+    @(107.7750 mm, 173.5000 mm): Pad 2 [GND] of LED_5 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(111.7990 mm, 171.6134 mm): Arc of LED_5 on Edge.Cuts
+    @(113.2250 mm, 172.0000 mm): Pad 3 [Net-(LED_1-DIN)] of LED_5 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(112.2000 mm, 172.0472 mm): Segment of LED_5 on Edge.Cuts
+    @(113.2250 mm, 173.5000 mm): Pad 4 [VCC] of LED_5 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(51.8000 mm, 97.4528 mm): Segment of LED_16 on Edge.Cuts
+    @(50.7750 mm, 96.0000 mm): Pad 1 [Net-(LED_16-DOUT)] of LED_16 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(51.8000 mm, 97.4528 mm): Segment of LED_16 on Edge.Cuts
+    @(50.7750 mm, 97.5000 mm): Pad 2 [GND] of LED_16 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2530 mm)
+    Rule: board setup constraints edge; error
+    @(54.7990 mm, 95.6134 mm): Arc of LED_16 on Edge.Cuts
+    @(56.2250 mm, 96.0000 mm): Pad 3 [Net-(LED_11-DOUT)] of LED_16 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(55.2000 mm, 96.0472 mm): Segment of LED_16 on Edge.Cuts
+    @(56.2250 mm, 97.5000 mm): Pad 4 [VCC] of LED_16 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 116.4528 mm): Segment of LED_12 on Edge.Cuts
+    @(69.7750 mm, 115.0000 mm): Pad 1 [Net-(LED_12-DOUT)] of LED_12 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(70.8000 mm, 116.4528 mm): Segment of LED_12 on Edge.Cuts
+    @(69.7750 mm, 116.5000 mm): Pad 2 [GND] of LED_12 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(74.2000 mm, 115.0472 mm): Segment of LED_12 on Edge.Cuts
+    @(75.2250 mm, 115.0000 mm): Pad 3 [Net-(LED_12-DIN)] of LED_12 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(74.2000 mm, 115.0472 mm): Segment of LED_12 on Edge.Cuts
+    @(75.2250 mm, 116.5000 mm): Pad 4 [VCC] of LED_12 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(90.0500 mm, 116.4528 mm): Segment of LED_7 on Edge.Cuts
+    @(89.0250 mm, 115.0000 mm): Pad 1 [Net-(LED_12-DIN)] of LED_7 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(90.0500 mm, 116.4528 mm): Segment of LED_7 on Edge.Cuts
+    @(89.0250 mm, 116.5000 mm): Pad 2 [GND] of LED_7 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(93.4500 mm, 115.0472 mm): Segment of LED_7 on Edge.Cuts
+    @(94.4750 mm, 115.0000 mm): Pad 3 [Net-(LED_2-DOUT)] of LED_7 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(93.4500 mm, 115.0472 mm): Segment of LED_7 on Edge.Cuts
+    @(94.4750 mm, 116.5000 mm): Pad 4 [VCC] of LED_7 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(32.8000 mm, 154.4528 mm): Segment of LED_24 on Edge.Cuts
+    @(31.7750 mm, 153.0000 mm): Pad 1 [unconnected-(LED_24-DOUT-Pad1)] of LED_24 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(32.8000 mm, 154.4528 mm): Segment of LED_24 on Edge.Cuts
+    @(31.7750 mm, 154.5000 mm): Pad 2 [GND] of LED_24 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(36.2000 mm, 153.0472 mm): Segment of LED_24 on Edge.Cuts
+    @(37.2250 mm, 153.0000 mm): Pad 3 [Net-(LED_19-DOUT)] of LED_24 on B.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: board setup constraints edge; error
+    @(36.2000 mm, 153.0472 mm): Segment of LED_24 on Edge.Cuts
+    @(37.2250 mm, 154.5000 mm): Pad 4 [VCC] of LED_24 on B.Cu
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.0000 mm, 30.0000 mm): Rectangle on Edge.Cuts
+    @(35.1100 mm, 29.9700 mm): Segment of MCU1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.0000 mm, 30.0000 mm): Rectangle on Edge.Cuts
+    @(52.8900 mm, 29.9700 mm): Segment of MCU1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.0000 mm, 30.0000 mm): Rectangle on Edge.Cuts
+    @(52.8900 mm, 32.5100 mm): Segment of MCU1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.0000 mm, 30.0000 mm): Rectangle on Edge.Cuts
+    @(35.1100 mm, 29.9700 mm): Segment of MCU1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.0000 mm, 30.0000 mm): Rectangle on Edge.Cuts
+    @(52.8900 mm, 29.9700 mm): Segment of MCU1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.0000 mm, 30.0000 mm): Rectangle on Edge.Cuts
+    @(52.8900 mm, 62.9900 mm): Segment of MCU1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(70.8000 mm, 97.4528 mm): Segment of LED_11 on Edge.Cuts
+    @(72.7500 mm, 96.7500 mm): Footprint text of LED_11 (LED_11)
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(75.2500 mm, 117.6500 mm): Via [VCC] on F.Cu - B.Cu
+    @(75.2500 mm, 117.6500 mm): Via [VCC] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(59.5000 mm, 98.7500 mm): Via [GND] on F.Cu - B.Cu
+    @(59.5000 mm, 98.7500 mm): Via [GND] on F.Cu - B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(20.1500 mm, 52.0000 mm): Segment of SW26_SPDT1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(20.1500 mm, 52.0000 mm): Segment of SW26_SPDT1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(20.1500 mm, 55.3000 mm): Segment of SW26_SPDT1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(23.0000 mm, 48.7000 mm): Segment of SW26_SPDT1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(23.0000 mm, 55.3000 mm): Segment of SW26_SPDT1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(22.5000 mm, 67.0000 mm): Segment of J1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 33.7800 mm): PTH pad 1 [LED] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 33.7800 mm): PTH pad 1 [LED] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 36.3200 mm): PTH pad 2 [nice!view_MOSI] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 36.3200 mm): PTH pad 2 [nice!view_MOSI] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 38.8600 mm): PTH pad 3 [GND] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 38.8600 mm): PTH pad 3 [GND] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 41.4000 mm): PTH pad 4 [unconnected-(MCU1-GND-Pad4)] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 41.4000 mm): PTH pad 4 [unconnected-(MCU1-GND-Pad4)] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 43.9400 mm): PTH pad 5 [nice!view_SCK] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 43.9400 mm): PTH pad 5 [nice!view_SCK] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 46.4800 mm): PTH pad 6 [nice!view_CS] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 46.4800 mm): PTH pad 6 [nice!view_CS] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 49.0200 mm): PTH pad 7 [ROW 0] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 49.0200 mm): PTH pad 7 [ROW 0] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 51.5600 mm): PTH pad 8 [ROW 1] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 51.5600 mm): PTH pad 8 [ROW 1] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 54.1000 mm): PTH pad 9 [ROW 2] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 54.1000 mm): PTH pad 9 [ROW 2] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 56.6400 mm): PTH pad 10 [ROW 3] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 56.6400 mm): PTH pad 10 [ROW 3] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 59.1800 mm): PTH pad 11 [ROW 4] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 59.1800 mm): PTH pad 11 [ROW 4] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 61.7200 mm): PTH pad 12 [COL 0] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(36.3800 mm, 61.7200 mm): PTH pad 12 [COL 0] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 61.7200 mm): PTH pad 13 [EC_03_RB] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 61.7200 mm): PTH pad 13 [EC_03_RB] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 59.1800 mm): PTH pad 14 [EC_02_RB] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 59.1800 mm): PTH pad 14 [EC_02_RB] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 56.6400 mm): PTH pad 15 [EC_01_RA] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 56.6400 mm): PTH pad 15 [EC_01_RA] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 54.1000 mm): PTH pad 16 [COL 5] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 54.1000 mm): PTH pad 16 [COL 5] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 51.5600 mm): PTH pad 17 [COL 4] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 51.5600 mm): PTH pad 17 [COL 4] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 49.0200 mm): PTH pad 18 [COL 3] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 49.0200 mm): PTH pad 18 [COL 3] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 46.4800 mm): PTH pad 19 [COL 2] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 46.4800 mm): PTH pad 19 [COL 2] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 43.9400 mm): PTH pad 20 [COL 1] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 43.9400 mm): PTH pad 20 [COL 1] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 41.4000 mm): PTH pad 21 [VCC] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 41.4000 mm): PTH pad 21 [VCC] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 38.8600 mm): PTH pad 22 [MCU-RST] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 38.8600 mm): PTH pad 22 [MCU-RST] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 36.3200 mm): PTH pad 23 [unconnected-(MCU1-GND-Pad23)] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 36.3200 mm): PTH pad 23 [unconnected-(MCU1-GND-Pad23)] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 33.7800 mm): PTH pad 24 [BATIN] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(51.6200 mm, 33.7800 mm): PTH pad 24 [BATIN] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(38.9200 mm, 56.6400 mm): PTH pad 31 [EC_03_RA] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(38.9200 mm, 56.6400 mm): PTH pad 31 [EC_03_RA] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(41.4600 mm, 56.6400 mm): PTH pad 32 [EC_01_RB] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(41.4600 mm, 56.6400 mm): PTH pad 32 [EC_01_RB] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(44.0000 mm, 56.6400 mm): PTH pad 33 [EC_02_RA] of MCU1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(44.0000 mm, 56.6400 mm): PTH pad 33 [EC_02_RA] of MCU1
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.5909 mm, 49.8918 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.6754 mm, 49.8561 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.6003 mm, 49.8056 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.6310 mm, 49.7670 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.6924 mm, 49.7656 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.5701 mm, 49.9606 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.4321 mm, 49.9225 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+    @(71.4883 mm, 49.4124 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+    @(71.5821 mm, 49.2964 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+    @(71.4885 mm, 49.3632 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+    @(71.4388 mm, 49.3417 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+    @(71.4705 mm, 49.3750 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.0057 mm, 49.6005 mm): Curve on F.Silkscreen
+    @(71.4883 mm, 49.4124 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.0057 mm, 49.6005 mm): Curve on F.Silkscreen
+    @(71.1035 mm, 49.5593 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.0123 mm, 49.5875 mm): Polygon of G*** on F.Silkscreen
+    @(71.0057 mm, 49.6005 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.0399 mm, 49.5668 mm): Polygon of G*** on F.Silkscreen
+    @(71.0057 mm, 49.6005 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.0057 mm, 49.6005 mm): Curve on F.Silkscreen
+    @(70.9914 mm, 49.6222 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.0057 mm, 49.6005 mm): Curve on F.Silkscreen
+    @(71.1097 mm, 49.4947 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(70.3474 mm, 49.4163 mm): Polygon of G*** on F.Silkscreen
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(70.4053 mm, 49.2570 mm): Polygon of G*** on F.Silkscreen
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(70.3603 mm, 49.3602 mm): Polygon of G*** on F.Silkscreen
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.3716 mm, 49.4727 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.3761 mm, 49.1694 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(70.3328 mm, 49.2366 mm): Polygon of G*** on F.Silkscreen
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.8092 mm, 49.7065 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.9244 mm, 49.6161 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.9914 mm, 49.6222 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(71.0123 mm, 49.5875 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(71.0399 mm, 49.5668 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.0057 mm, 49.6005 mm): Curve on F.Silkscreen
+    @(71.2442 mm, 49.3890 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.7227 mm, 49.7836 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.0057 mm, 49.6005 mm): Curve on F.Silkscreen
+    @(71.4885 mm, 49.3632 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.0057 mm, 49.6005 mm): Curve on F.Silkscreen
+    @(71.4388 mm, 49.3417 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.0057 mm, 49.6005 mm): Curve on F.Silkscreen
+    @(71.4705 mm, 49.3750 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.0057 mm, 49.6005 mm): Curve on F.Silkscreen
+    @(71.3783 mm, 49.4458 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(65.8056 mm, 52.1433 mm): Polygon of G*** on F.Silkscreen
+    @(66.3315 mm, 50.8645 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.3315 mm, 50.8645 mm): Curve on F.Silkscreen
+    @(65.7953 mm, 52.1793 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.0112 mm, 51.7715 mm): Polygon of G*** on F.Silkscreen
+    @(66.3315 mm, 50.8645 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.3315 mm, 50.8645 mm): Curve on F.Silkscreen
+    @(65.9897 mm, 51.8527 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.3315 mm, 50.8645 mm): Curve on F.Silkscreen
+    @(66.1174 mm, 51.5004 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.3315 mm, 50.8645 mm): Curve on F.Silkscreen
+    @(66.0790 mm, 51.6273 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(65.8463 mm, 51.9747 mm): Polygon of G*** on F.Silkscreen
+    @(66.3315 mm, 50.8645 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.0293 mm, 51.7414 mm): Polygon of G*** on F.Silkscreen
+    @(66.3315 mm, 50.8645 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.8974 mm, 46.4354 mm): Polygon of G*** on F.Silkscreen
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.8600 mm, 46.4612 mm): Polygon of G*** on F.Silkscreen
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+    @(67.9613 mm, 46.5896 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(68.1551 mm, 46.5864 mm): Polygon of G*** on F.Silkscreen
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+    @(68.0794 mm, 46.5245 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(68.2356 mm, 46.6505 mm): Polygon of G*** on F.Silkscreen
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.3423 mm, 46.1073 mm): Polygon of G*** on F.Silkscreen
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.1297 mm, 46.1351 mm): Polygon of G*** on F.Silkscreen
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+    @(67.1230 mm, 46.0796 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.4212 mm, 46.2518 mm): Polygon of G*** on F.Silkscreen
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.4203 mm, 46.1973 mm): Polygon of G*** on F.Silkscreen
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.1297 mm, 46.1351 mm): Polygon of G*** on F.Silkscreen
+    @(63.1837 mm, 45.5400 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.7656 mm, 46.0617 mm): Polygon of G*** on F.Silkscreen
+    @(63.1837 mm, 45.5400 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.7733 mm, 45.9727 mm): Polygon of G*** on F.Silkscreen
+    @(63.1837 mm, 45.5400 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.7160 mm, 46.0076 mm): Polygon of G*** on F.Silkscreen
+    @(63.1837 mm, 45.5400 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.5744 mm, 45.9728 mm): Polygon of G*** on F.Silkscreen
+    @(63.1837 mm, 45.5400 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.9640 mm, 46.0203 mm): Polygon of G*** on F.Silkscreen
+    @(63.1837 mm, 45.5400 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.6663 mm, 46.0548 mm): Polygon of G*** on F.Silkscreen
+    @(63.1837 mm, 45.5400 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.4410 mm, 45.9415 mm): Polygon of G*** on F.Silkscreen
+    @(63.1837 mm, 45.5400 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.3838 mm, 45.9279 mm): Polygon of G*** on F.Silkscreen
+    @(63.1837 mm, 45.5400 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+    @(67.5566 mm, 46.2264 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+    @(67.5348 mm, 46.2996 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+    @(67.6960 mm, 46.3652 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.4393 mm, 46.2439 mm): Polygon of G*** on F.Silkscreen
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+    @(67.4722 mm, 46.1700 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.4583 mm, 46.2708 mm): Polygon of G*** on F.Silkscreen
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.7242 mm, 46.3232 mm): Polygon of G*** on F.Silkscreen
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.0755 mm, 46.1094 mm): Polygon of G*** on F.Silkscreen
+    @(63.1837 mm, 45.5400 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.1094 mm, 46.0416 mm): Polygon of G*** on F.Silkscreen
+    @(63.1837 mm, 45.5400 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.0122 mm, 46.1151 mm): Polygon of G*** on F.Silkscreen
+    @(63.1837 mm, 45.5400 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.1230 mm, 46.0796 mm): Polygon of G*** on F.Silkscreen
+    @(63.1837 mm, 45.5400 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.0196 mm, 45.9569 mm): Polygon of G*** on F.Silkscreen
+    @(63.1837 mm, 45.5400 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.2814 mm, 45.9423 mm): Polygon of G*** on F.Silkscreen
+    @(63.1837 mm, 45.5400 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.0882 mm, 45.9332 mm): Polygon of G*** on F.Silkscreen
+    @(63.1837 mm, 45.5400 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.6754 mm, 49.9011 mm): Curve on F.Silkscreen
+    @(73.7121 mm, 50.0628 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.6754 mm, 49.9011 mm): Curve on F.Silkscreen
+    @(73.6954 mm, 49.9814 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.6754 mm, 49.9011 mm): Curve on F.Silkscreen
+    @(73.7254 mm, 49.8828 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.6754 mm, 49.9011 mm): Curve on F.Silkscreen
+    @(73.5893 mm, 49.6808 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.6754 mm, 49.9011 mm): Curve on F.Silkscreen
+    @(73.7865 mm, 50.0207 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.6754 mm, 49.9011 mm): Curve on F.Silkscreen
+    @(73.8123 mm, 50.0877 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.6754 mm, 49.9011 mm): Curve on F.Silkscreen
+    @(73.7974 mm, 50.1359 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.1489 mm, 49.3874 mm): Curve on F.Silkscreen
+    @(73.7254 mm, 49.8828 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.6754 mm, 49.9011 mm): Curve on F.Silkscreen
+    @(73.7477 mm, 50.3537 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.6754 mm, 49.9011 mm): Curve on F.Silkscreen
+    @(73.7195 mm, 50.1725 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.7477 mm, 50.3537 mm): Polygon of G*** on F.Silkscreen
+    @(73.8080 mm, 50.4383 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.8251 mm, 50.5856 mm): Polygon of G*** on F.Silkscreen
+    @(73.8080 mm, 50.4383 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.7034 mm, 50.5983 mm): Polygon of G*** on F.Silkscreen
+    @(73.8080 mm, 50.4383 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.7447 mm, 50.6376 mm): Polygon of G*** on F.Silkscreen
+    @(73.8080 mm, 50.4383 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.7576 mm, 50.5493 mm): Polygon of G*** on F.Silkscreen
+    @(73.8080 mm, 50.4383 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.8080 mm, 50.4383 mm): Curve on F.Silkscreen
+    @(73.6759 mm, 50.7753 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.6577 mm, 50.7664 mm): Polygon of G*** on F.Silkscreen
+    @(73.8080 mm, 50.4383 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.6767 mm, 50.8411 mm): Polygon of G*** on F.Silkscreen
+    @(73.8080 mm, 50.4383 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.6388 mm, 50.6669 mm): Polygon of G*** on F.Silkscreen
+    @(73.8080 mm, 50.4383 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.6165 mm, 50.8887 mm): Polygon of G*** on F.Silkscreen
+    @(73.8080 mm, 50.4383 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.6583 mm, 50.8804 mm): Polygon of G*** on F.Silkscreen
+    @(73.8080 mm, 50.4383 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.2234 mm, 50.5481 mm): Curve on F.Silkscreen
+    @(73.2761 mm, 50.4774 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.0665 mm, 51.2075 mm): Curve on F.Silkscreen
+    @(73.1617 mm, 50.6327 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.0665 mm, 51.2075 mm): Curve on F.Silkscreen
+    @(73.2761 mm, 50.4774 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.0665 mm, 51.2075 mm): Curve on F.Silkscreen
+    @(73.2148 mm, 50.6704 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.5199 mm, 50.1349 mm): Polygon of G*** on F.Silkscreen
+    @(73.2234 mm, 50.5481 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.2234 mm, 50.5481 mm): Curve on F.Silkscreen
+    @(73.5210 mm, 50.1566 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.2234 mm, 50.5481 mm): Curve on F.Silkscreen
+    @(73.5387 mm, 50.0674 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.2234 mm, 50.5481 mm): Curve on F.Silkscreen
+    @(73.5949 mm, 49.9699 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.2234 mm, 50.5481 mm): Curve on F.Silkscreen
+    @(73.4380 mm, 50.3245 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(69.9769 mm, 50.2038 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(69.8751 mm, 50.7190 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(69.8429 mm, 50.7025 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(70.0592 mm, 50.2557 mm): Polygon of G*** on F.Silkscreen
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.9769 mm, 50.2038 mm): Polygon of G*** on F.Silkscreen
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.1318 mm, 50.0979 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7190 mm): Polygon of G*** on F.Silkscreen
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8429 mm, 50.7025 mm): Polygon of G*** on F.Silkscreen
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(70.4208 mm, 49.0843 mm): Polygon of G*** on F.Silkscreen
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.1862 mm, 48.6521 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.3277 mm, 50.2475 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.4345 mm, 50.0868 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.0572 mm, 49.9202 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.2444 mm, 49.9789 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(70.1887 mm, 49.8892 mm): Polygon of G*** on F.Silkscreen
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.1318 mm, 50.0979 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(70.2058 mm, 49.8114 mm): Polygon of G*** on F.Silkscreen
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(70.2578 mm, 49.4896 mm): Polygon of G*** on F.Silkscreen
+    @(69.8767 mm, 50.7291 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.2497 mm, 48.6016 mm): Curve on F.Silkscreen
+    @(66.6008 mm, 49.0460 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.2497 mm, 48.6016 mm): Curve on F.Silkscreen
+    @(66.7234 mm, 48.9785 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.2497 mm, 48.6016 mm): Curve on F.Silkscreen
+    @(66.5262 mm, 48.6237 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.6920 mm, 49.1463 mm): Polygon of G*** on F.Silkscreen
+    @(66.2497 mm, 48.6016 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.6823 mm, 49.2369 mm): Curve on F.Silkscreen
+    @(66.6801 mm, 49.4705 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.6801 mm, 49.5654 mm): Polygon of G*** on F.Silkscreen
+    @(66.6823 mm, 49.2369 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.7725 mm, 49.4960 mm): Polygon of G*** on F.Silkscreen
+    @(66.6823 mm, 49.2369 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.6939 mm, 49.3532 mm): Polygon of G*** on F.Silkscreen
+    @(66.6823 mm, 49.2369 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.6823 mm, 49.2369 mm): Curve on F.Silkscreen
+    @(66.6326 mm, 49.4909 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.6823 mm, 49.2369 mm): Curve on F.Silkscreen
+    @(66.6348 mm, 49.5749 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.6823 mm, 49.2369 mm): Curve on F.Silkscreen
+    @(66.6956 mm, 49.6069 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.6823 mm, 49.2369 mm): Curve on F.Silkscreen
+    @(66.6685 mm, 49.4529 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.6317 mm, 49.4093 mm): Polygon of G*** on F.Silkscreen
+    @(66.6823 mm, 49.2369 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.6823 mm, 49.2369 mm): Curve on F.Silkscreen
+    @(66.6123 mm, 49.7784 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.6823 mm, 49.2369 mm): Curve on F.Silkscreen
+    @(66.6391 mm, 49.7463 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(66.5876 mm, 49.6779 mm): Polygon of G*** on F.Silkscreen
+    @(66.6823 mm, 49.2369 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.4641 mm, 50.0093 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.2039 mm, 50.3184 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(69.8751 mm, 50.7291 mm): Curve on F.Silkscreen
+    @(70.1361 mm, 50.3686 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.5893 mm, 49.6808 mm): Polygon of G*** on F.Silkscreen
+    @(73.2234 mm, 50.5481 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.2234 mm, 50.5481 mm): Curve on F.Silkscreen
+    @(73.7236 mm, 49.7451 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.2234 mm, 50.5481 mm): Curve on F.Silkscreen
+    @(73.7629 mm, 49.6652 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.5893 mm, 49.6808 mm): Polygon of G*** on F.Silkscreen
+    @(73.1489 mm, 49.3874 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.1058 mm, 49.2462 mm): Polygon of G*** on F.Silkscreen
+    @(73.1489 mm, 49.3874 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.2779 mm, 49.3921 mm): Polygon of G*** on F.Silkscreen
+    @(73.1489 mm, 49.3874 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.5099 mm, 49.5062 mm): Polygon of G*** on F.Silkscreen
+    @(73.1489 mm, 49.3874 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.1825 mm, 49.4263 mm): Polygon of G*** on F.Silkscreen
+    @(73.1489 mm, 49.3874 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.1825 mm, 49.4263 mm): Polygon of G*** on F.Silkscreen
+    @(72.3957 mm, 49.2654 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.1058 mm, 49.2462 mm): Polygon of G*** on F.Silkscreen
+    @(72.3957 mm, 49.2654 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(72.3957 mm, 49.2654 mm): Curve on F.Silkscreen
+    @(72.9798 mm, 49.3090 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(72.8929 mm, 49.2567 mm): Polygon of G*** on F.Silkscreen
+    @(72.3957 mm, 49.2654 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(72.3957 mm, 49.2654 mm): Curve on F.Silkscreen
+    @(73.0364 mm, 49.2805 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(72.9425 mm, 49.3276 mm): Polygon of G*** on F.Silkscreen
+    @(72.3957 mm, 49.2654 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(72.7019 mm, 49.2548 mm): Polygon of G*** on F.Silkscreen
+    @(72.3957 mm, 49.2654 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(72.3957 mm, 49.2654 mm): Curve on F.Silkscreen
+    @(72.8041 mm, 49.2957 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.1489 mm, 49.3874 mm): Curve on F.Silkscreen
+    @(73.5221 mm, 49.5530 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.1489 mm, 49.3874 mm): Curve on F.Silkscreen
+    @(73.4939 mm, 49.5936 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.1489 mm, 49.3874 mm): Curve on F.Silkscreen
+    @(73.5575 mm, 49.5620 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.5944 mm, 49.6265 mm): Polygon of G*** on F.Silkscreen
+    @(73.1489 mm, 49.3874 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(68.2876 mm, 46.8031 mm): Polygon of G*** on F.Silkscreen
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(70.3352 mm, 48.7004 mm): Polygon of G*** on F.Silkscreen
+    @(70.3112 mm, 48.7645 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(70.1862 mm, 48.6521 mm): Polygon of G*** on F.Silkscreen
+    @(70.3112 mm, 48.7645 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.9223 mm, 49.2276 mm): Polygon of G*** on F.Silkscreen
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+    @(72.0895 mm, 49.1945 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+    @(72.1580 mm, 49.2335 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(72.3426 mm, 49.2480 mm): Polygon of G*** on F.Silkscreen
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(72.4448 mm, 49.2641 mm): Polygon of G*** on F.Silkscreen
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(72.4448 mm, 49.2641 mm): Polygon of G*** on F.Silkscreen
+    @(72.3957 mm, 49.2654 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+    @(67.7466 mm, 46.4145 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.7745 mm, 46.4498 mm): Polygon of G*** on F.Silkscreen
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(67.1353 mm, 46.0901 mm): Curve on F.Silkscreen
+    @(67.7448 mm, 46.3611 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+    @(71.7461 mm, 49.2412 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+    @(71.6783 mm, 49.3158 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+    @(71.7594 mm, 49.3105 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+    @(71.7986 mm, 49.2097 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+    @(71.6049 mm, 49.2473 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.8954 mm, 49.2492 mm): Polygon of G*** on F.Silkscreen
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(72.3957 mm, 49.2654 mm): Curve on F.Silkscreen
+    @(72.6183 mm, 49.2265 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(72.3957 mm, 49.2654 mm): Curve on F.Silkscreen
+    @(72.5981 mm, 49.2498 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+    @(72.1442 mm, 49.3015 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(72.1918 mm, 49.2874 mm): Polygon of G*** on F.Silkscreen
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+    @(72.1823 mm, 49.2134 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+    @(72.3045 mm, 49.2706 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(71.4442 mm, 49.3777 mm): Curve on F.Silkscreen
+    @(72.2062 mm, 49.1681 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.0665 mm, 51.2075 mm): Curve on F.Silkscreen
+    @(73.0633 mm, 50.9048 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.2509 mm, 51.2631 mm): Polygon of G*** on F.Silkscreen
+    @(73.3341 mm, 51.1558 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.3341 mm, 51.1558 mm): Curve on F.Silkscreen
+    @(73.1995 mm, 51.2281 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.0665 mm, 51.2075 mm): Curve on F.Silkscreen
+    @(73.0378 mm, 51.0058 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.3341 mm, 51.1558 mm): Curve on F.Silkscreen
+    @(73.0378 mm, 51.0058 mm): Polygon of G*** on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.5546 mm, 50.8533 mm): Polygon of G*** on F.Silkscreen
+    @(73.8080 mm, 50.4383 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.6053 mm, 50.9291 mm): Polygon of G*** on F.Silkscreen
+    @(73.8080 mm, 50.4383 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.5482 mm, 51.0282 mm): Polygon of G*** on F.Silkscreen
+    @(73.8080 mm, 50.4383 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.4518 mm, 51.0165 mm): Polygon of G*** on F.Silkscreen
+    @(73.8080 mm, 50.4383 mm): Curve on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(73.8080 mm, 50.4383 mm): Curve on F.Silkscreen
+    @(73.4069 mm, 51.1325 mm): Polygon of G*** on F.Silkscreen
+
+** Found 2 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(113.2250 mm, 96.0000 mm): Track [Net-(LED_1-DIN)] on B.Cu, length 1.4250 mm
+    @(115.5000 mm, 115.0000 mm): Track [Net-(LED_1-DIN)] on B.Cu, length 2.2750 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(113.2250 mm, 134.0000 mm): Track [Net-(LED_1-DIN)] on B.Cu, length 1.6750 mm
+    @(115.5000 mm, 153.0000 mm): Track [Net-(LED_1-DIN)] on B.Cu, length 2.2750 mm
+
+** Found 7 Footprint errors **
+[duplicate_footprints]: Duplicate footprints
+    Local override; warning
+    @(22.5000 mm, 32.5000 mm): Footprint _2mm
+    @(122.5000 mm, 180.0000 mm): Footprint _2mm
+[duplicate_footprints]: Duplicate footprints
+    Local override; warning
+    @(122.5000 mm, 32.5000 mm): Footprint _2mm
+    @(122.5000 mm, 180.0000 mm): Footprint _2mm
+[duplicate_footprints]: Duplicate footprints
+    Local override; warning
+    @(22.5000 mm, 180.0000 mm): Footprint _2mm
+    @(122.5000 mm, 180.0000 mm): Footprint _2mm
+[extra_footprint]: Extra footprint
+    Local override; warning
+    @(122.5000 mm, 180.0000 mm): Footprint _2mm
+[extra_footprint]: Extra footprint
+    Local override; warning
+    @(22.5000 mm, 32.5000 mm): Footprint _2mm
+[extra_footprint]: Extra footprint
+    Local override; warning
+    @(122.5000 mm, 32.5000 mm): Footprint _2mm
+[extra_footprint]: Extra footprint
+    Local override; warning
+    @(22.5000 mm, 180.0000 mm): Footprint _2mm
+
+** End of Report **
