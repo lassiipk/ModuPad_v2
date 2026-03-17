@@ -1,32 +1,35 @@
-# Final Bill of Materials (BOM) — Combined Currency (PKR + USD)
+# Final Bill of Materials (BOM)
 
 ---
 
-**1 USD = 279.55 PKR**
+| Priority | Item                          | Qty | Unit Price | Shipping  | Total     | Notes               | Ordering Site    |
+| -------- | ----------------------------- | --- | ---------- | --------- | --------- | ------------------- | ---------------- |
+| 1        | PCB (Printed Circuit Board)   |  1  | US $8.40   | US $10.30 | US $18.70 | PCB                 | [JCLPCB](https://github.com/lassiipk/ModuPad_v2/blob/main/BOM/Cart_Images/JLCPCB_Screenshot-2026-03-17-183200.png) | 
+| 2        | 3D Printed Case               |  1  | US $0.00   | US $12.00 | US $12.00 | Case / Knobs        | [#printing-legion](https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
+| 3        | 3.7V 800mAh Battery           |  1  | US $1.79   | US $0.91  | US $2.71  | Wireless Connection | [Daraz](https://www.daraz.pk//products/i422858128-s2001359619.html?spm=a2o42.cart.0.0.af8f7d68YCkevZ&urlFlag=true) |
+| 4        | nice!nano_v2.0 (NRF52840)     |  1  | US $3.30   | Free      | US $3.30  | MCU                 | [AliExpress](https://www.aliexpress.com/item/1005009516681283.html?spm=a2g0o.cart.0.0.7f5938da0jaPUj&mp=1&pdp_npi=6%40dis%21USD%21USD%203.30%21USD%203.30%21%21USD%203.30%21%21%21%40210156fc17737566309362930edfd4%2112000049341617471%21ct%21PK%216395474379%21%211%210%21) |
+| 5        | 0.91 Inch 128x32 OLED Display |  1  | US $2.68   | Free      | US $2.68  | 128x32 OLED Display | [AliExpress](https://www.aliexpress.com/item/1005008640132638.html?spm=a2g0o.cart.0.0.7f5938da0jaPUj&mp=1&pdp_npi=6%40dis%21USD%21USD%202.84%21USD%202.68%21%21USD%202.68%21%21%21%40210156fc17737566288612823edfd4%2112000046056501838%21ct%21PK%216395474379%21%211%210%21) |
+| 6        | Cherry MX Style Switches      |  1  | US $3.24   | Free      | US $3.24  | Switches            | [A;iExpress](https://www.aliexpress.com/item/1005010772946238.html?spm=a2g0o.cart.0.0.7f5938da0jaPUj&mp=1&pdp_npi=6%40dis%21USD%21USD%203.24%21USD%203.24%21%21USD%203.24%21%21%21%40210156fc17737566288612823edfd4%2112000053464130840%21ct%21PK%216395474379%21%211%210%21) |
+| 7        | SK6812 MINI-E RGB LEDs        |  1  | US $3.69   | Free      | US $3.69  | RGB                 | [AliExpress](https://www.aliexpress.com/item/1005005193716172.html?spm=a2g0o.cart.0.0.744038da23sMVn&mp=1&pdp_npi=6%40dis%21USD%21USD%203.86%21USD%203.86%21%21USD%203.86%21%21%21%4021010d9017721244036344079e42d2%2112000032072424634%21ct%21PK%216395474379%21%211%210%21) |
+| 8        | EC11 Rotary Encoders          |  1  | US $2.55   | Free      | US $2.55  | Rotary Encoders     | [AliExpress](https://www.aliexpress.com/item/1005007644083514.html?spm=a2g0o.cart.0.0.744038da23sMVn&mp=1&pdp_npi=6%40dis%21USD%21USD%202.65%21USD%202.65%21%21USD%202.65%21%21%21%4021010d9017721245116916843e42d2%2112000041630839426%21ct%21PK%216395474379%21%211%210%21) |
+| 9        | 1N4148W SMD Diodes            |  1  | US $1.60   | Free      | US $1.60  | 28 diodes           | [AliExpress](https://www.aliexpress.com/item/1005007160563285.html?spm=a2g0o.cart.0.0.7f5938da0jaPUj&mp=1&pdp_npi=6%40dis%21USD%21USD%202.21%21USD%201.60%21%21USD%201.60%21%21%21%40210156fc17737566288612823edfd4%2112000039653324544%21ct%21PK%216395474379%21%211%210%21) |
+| 10       | Kailh Hotswap Sockets         |  1  | US $2.82   | Free      | US $2.82  | Hotswap Sockets     | [AliExpress](https://www.aliexpress.com/item/1005009794038277.html?spm=a2g0o.cart.0.0.7f5938da0jaPUj&mp=1&pdp_npi=6%40dis%21USD%21USD%205.75%21USD%202.82%21%21USD%202.82%21%21%21%40210156fc17737566288612823edfd4%2112000050182431031%21ct%21PK%216395474379%21%211%210%21) |
+| 11       | DSA Keycaps                   |  1  | US $5.00   | Free      | US $5.00  | 25 keycaps          | [AliExpress](https://www.aliexpress.com/item/32842379355.html?spm=a2g0o.cart.0.0.7f5938da0jaPUj&mp=1&pdp_npi=6%40dis%21USD%21USD%205.28%21USD%205.28%21%21USD%205.28%21%21%21%40210156fc17737566309362930edfd4%2110000001467765234%21ct%21PK%216395474379%21%211%210%21) |
+| 12       | Power Switch                  |  1  | US $1.95   | Free      | US $1.95  | Power cutoff        | [AliExpress](https://www.aliexpress.com/item/1005007372534237.html?spm=a2g0o.cart.0.0.7f5938da0jaPUj&mp=1&pdp_npi=6%40dis%21USD%21USD%202.95%21USD%201.89%21%21USD%201.89%21%21%21%40210156fc17737566309362930edfd4%2112000040538852784%21ct%21PK%216395474379%21%211%210%21) |
+| 13       | Battery Jack                  |  1  | US $1.66   | Free      | US $1.66  | Battery connection  | [AliExpress](https://www.aliexpress.com/item/1005004955655144.html?spm=a2g0o.cart.0.0.7f5938da0jaPUj&mp=1&pdp_npi=6%40dis%21USD%21USD%201.66%21USD%201.66%21%21USD%201.66%21%21%21%40210156fc17737566288612823edfd4%2112000031146362164%21ct%21PK%216395474379%21%211%210%21) |
+| 14       | Reset Button                  |  1  | US $1.72   | Free      | US $1.72  | Reset For MCU       | [AliExpress](https://www.aliexpress.com/item/1005009331265393.html?spm=a2g0o.cart.0.0.7f5938da0jaPUj&mp=1&pdp_npi=6%40dis%21USD%21USD%201.72%21USD%201.72%21%21USD%201.72%21%21%21%40210156fc17737566288612823edfd4%2112000048778390261%21ct%21PK%216395474379%21%211%210%21) |
+| 15       | 330R Resistor                 |  1  | US $2.27   | Free      | US $2.27  | Resistor            | [AliExpress](https://www.aliexpress.com/item/1005007043943146.html?spm=a2g0o.cart.0.0.7f5938da0jaPUj&mp=1&pdp_npi=6%40dis%21USD%21USD%202.88%21USD%202.28%21%21USD%202.28%21%21%21%40210156fc17737566288612823edfd4%2112000039203406400%21ct%21PK%216395474379%21%211%210%21) |
+| 16       | 470UF Capacitor               |  1  | US $2.93   | Free      | US $2.93  | Capacitor           | [AliExpress](https://www.aliexpress.com/item/1005008498295736.html?spm=a2g0o.cart.0.0.7f5938da0jaPUj&mp=1&pdp_npi=6%40dis%21USD%21USD%203.05%21USD%202.85%21%21USD%202.85%21%21%21%40210156fc17737566288612823edfd4%2112000045532285458%21ct%21PK%216395474379%21%211%210%21) |
+| 17       | M2/8mm Standoffs              |  1  | US $3.50   | Free      | US $3.50  | Mounting            | [AliExpress](https://www.aliexpress.com/item/1005008713639234.html?spm=a2g0o.cart.0.0.7f5938da0jaPUj&mp=1&pdp_npi=6%40dis%21USD%21USD%203.77%21USD%203.50%21%21USD%203.50%21%21%21%40210156fc17737566288612823edfd4%2112000046354950634%21ct%21PK%216395474379%21%211%210%21) |
+| 18       | M2/4mm Screws                 |  1  | US $1.11   | Free      | US $1.11  | Mounting            | [AliExpress](https://www.aliexpress.com/item/1005003604942716.html?spm=a2g0o.cart.0.0.7f5938da0jaPUj&mp=1&pdp_npi=6%40dis%21USD%21USD%201.11%21USD%201.11%21%21USD%201.11%21%21%21%40210156fc17737566288612823edfd4%2112000026464812448%21ct%21PK%216395474379%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D) |
 
----
+---    
 
-| Priority | Item                      | Qty | Unit Price (PKR / USD) | Shipping (PKR / USD) | Total (PKR / USD) | Notes               | Ordering Site    |
-| -------- | ------------------------- | --- | ---------------------- | -------------------- | ----------------- | ------------------  | ---------------- |
-| 1        | PCB (5 pcs pack)          | 1   | 2,571.86 / 9.20        | 4,688.05 / 16.77     | 7,259.91 / 25.97  | E-Post shipping     | [JCLPCB](https://jlcpcb.com) | 
-| 2        | 3D Printed Case           | 1   | --- / ---              | --- / 15.00          | --- / 15.00       | Case / Knobs        | [#printing-legion](https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
-| 3        | 3.7V 800mAh Battery       | 1   | 500 / 1.79             | 255 / 0.91           | 754 / 2.70        | Wireless Connection | [Daraz](https://www.daraz.pk//products/i422858128-s2001359619.html?spm=a2o42.cart.0.0.af8f7d68YCkevZ&urlFlag=true) |
-| 4        | M2 Heat-Set Inserts       | 1   | --- / ---              |--- / ---             | --- / ---         | Mounting            | --- |
-| 5        | EC11 Rotary Encoder       | 1   | --- / 2.65             | --- / 1.99           | --- / 4.54        | Encoder             | [AliExpress](https://www.aliexpress.com/item/1005007644083514.html?spm=a2g0o.cart.0.0.744038da23sMVn&mp=1&pdp_npi=6%40dis%21USD%21USD%202.65%21USD%202.65%21%21USD%202.65%21%21%21%4021010d9017721245116916843e42d2%2112000041630839426%21ct%21PK%216395474379%21%211%210%21) |
-| 6        | SK6812 MINI-E RGB LEDs    | 1   | --- / 3.86             | --- / 1.99           | --- / 5.85        | RGB                 | [AliExpress](https://www.aliexpress.com/item/1005005193716172.html?spm=a2g0o.cart.0.0.744038da23sMVn&mp=1&pdp_npi=6%40dis%21USD%21USD%203.86%21USD%203.86%21%21USD%203.86%21%21%21%4021010d9017721244036344079e42d2%2112000032072424634%21ct%21PK%216395474379%21%211%210%21) |
-| 7        | CHERRY MX Blue Switch Kit | 3   | 2,000 / 7.15           | 185 / 0.66           | 6,185 / 22.13     | 30 switches         | [Daraz](https://www.daraz.pk//products/i936558752-s3994103049.html?spm=a2o42.cart.0.0.7f167d68l1SOW6&urlFlag=true) |
-| 8        | nice!nano v2.0            | 1   | 7,100 / 25.39          | Free                 | 7,100 / 25.39     | Main MCU            | [Typeractive](https://typeractive.xyz/products/nice-nano) |
-| 9        | nice!view Display         | 1   | 5,700 / 20.39          | Free                 | 5,700 / 20.39     | Display             | [Typeractive](https://typeractive.xyz/products/nice-view) |
-| 10       | Machine Sockets and Pins  | 1   | 1,900 / 6.80           | Free                 | 1,900 / 6.80      | Socketing           | [Typeractive](https://typeractive.xyz/products/machine-sockets-and-pins) |
-| 11       | SMD Diodes                | 3   | 300 / 1.07             | Free                 | 900 / 3.22        | 30 diodes           | [Typeractive](https://typeractive.xyz/products/smd-diodes) |
-| 12       | Kailh Hotswap Sockets     | 3   | 500 / 1.79             | Free                 | 1,500 / 5.37      | Corrected total     | [Typeractive](https://typeractive.xyz/products/hotswap-sockets) |
-| 13       | DSA Keycaps               | 3   | 1,000 / 3.58           | Free                 | 3,000 / 10.73     | 30 keycaps          | [Typeractive](https://typeractive.xyz/products/dsa-keycaps) |
-| 14       | Power Switch              | 1   | 500 / 1.79             | Free                 | 500 / 1.79        | Power cutoff        | [Typeractive](https://typeractive.xyz/products/power-switch) |
-| 15       | Battery Jack              | 1   | 300 / 1.07             | Free                 | 300 / 1.07        | Battery connection  | [Typeractive](https://typeractive.xyz/products/battery-jack) |
-| 16       | Reset Button              | 1   | 500 / 1.79             | Free                 | 500 / 1.79        | Reset               | [Typeractive](https://typeractive.xyz/products/reset-button) |
+**AliExpress-Total = US $40.17** | *incl. Shipping*
+**#Printing-Legion = US $10** | *incl. Shipping*
+**JLCPCB-Total = US $20.00** | *incl. Shipping*
+**Daraz-Total = US $2.70** | *incl. Shipping*
 
----
-
-**Total = 152.74 USD**
+**Total = US $84.47** | *incl. Shipping*
 
 ---
