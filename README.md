@@ -63,10 +63,13 @@ Improved Version of my ModuPad v1, With 3 Push Button rotary encoders, 25 Key sw
 
 ---    
 
-**AliExpress-Total = US $40.17** | *incl. Shipping*
-**#Printing-Legion = US $10** | *incl. Shipping*
-**JLCPCB-Total = US $20.00** | *incl. Shipping*
-**Daraz-Total = US $2.70** | *incl. Shipping*
+> **AliExpress-Total = US $40.17** | *incl. Shipping*
+>
+> **#Printing-Legion = US $10** | *incl. Shipping*
+>
+> **JLCPCB-Total = US $20.00** | *incl. Shipping*
+>
+> **Daraz-Total = US $2.70** | *incl. Shipping*
 
 **Total = US $84.47** | *incl. Shipping*
 
