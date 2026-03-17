@@ -33,6 +33,6 @@
 >
 > **Daraz-Total = US $2.70** | *incl. Shipping*
 
-**Total = US $84.47** | *incl. Shipping*
+**Total = US $73.44** | *incl. Shipping*
 
 ---

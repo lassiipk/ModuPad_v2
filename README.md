@@ -71,7 +71,7 @@ Improved Version of my ModuPad v1, With 3 Push Button rotary encoders, 25 Key sw
 >
 > **Daraz-Total = US $2.70** | *incl. Shipping*
 
-**Total = US $84.47** | *incl. Shipping*
+**Total = US $73.44** | *incl. Shipping*
 
 ---
 
