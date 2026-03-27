@@ -1,4 +1,4 @@
-28463312409946047
+28476885413961164
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2981,13 +2981,6 @@ Gauge Massstab 100mm SilkScreenTop Type 2
 0
 0
 0
-Capacitor
-CAPPRD500W60D1330H2700
-
-
-0
-2
-2
 Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
@@ -94128,6 +94121,41 @@ mousebite stamp slot break tab 2mm edge on-edge
 0
 0
 0
+Panelization
+mouse-bite-1mm-slot
+
+
+0
+0
+0
+Panelization
+mouse-bite-2.54mm-slot
+
+
+0
+0
+0
+Panelization
+mouse-bite-2mm-slot
+
+
+0
+0
+0
+Panelization
+mouse-bite-3mm-slot
+
+
+0
+0
+0
+Panelization
+mouse-bite-5mm-slot
+
+
+0
+0
+0
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -97368,13 +97396,6 @@ http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf
 SMD SMT SPST EVQPUL EVQPUC
 0
 4
-2
-Resistor
-RESAD1100W55L680D260
-
-
-0
-2
 2
 Resistor_SMD
 R_0201_0603Metric
@@ -104215,6 +104236,41 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
+Switches
+Hotswap_Choc_V1_1.00u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.00u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.00u
+0
+2
+2
+Switches
+Hotswap_Choc_V1_1.25u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.25u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.25u
+0
+2
+2
+Switches
+Hotswap_Choc_V1_1.50u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.50u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.50u
+0
+2
+2
+Switches
+Hotswap_Choc_V1_1.75u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.75u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.75u
+0
+2
+2
+Switches
+Hotswap_Choc_V1_3.00u
+Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 3.00u
+Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 3.00u
+0
+2
+2
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
